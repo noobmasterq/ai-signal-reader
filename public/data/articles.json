@@ -1,11 +1,251 @@
 {
-  "generatedAt": "2026-08-10T02:34:17.619Z",
+  "generatedAt": "2026-08-11T02:27:42.868Z",
   "timezone": "Asia/Hong_Kong",
-  "totalArticles": 391,
+  "totalArticles": 440,
   "sourcesConfigured": 39,
   "sourcesOk": 33,
   "sourceErrors": 6,
   "articles": [
+    {
+      "id": "96ce9e99d4f72a42238e",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "author": "",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T17:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "30a2720dbfbd92712160",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "框架与工具",
+      "sourceColor": "#FFBD2E",
+      "sourceColorAlt": "#FF8A00",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T16:25:36.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "af2e72493fc17a1914a8",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "When axis-aligned boxes break: Lessons from a CVPR-published traffic AI",
+      "url": "https://wandb.ai/aman-goyal1099-carnegie-mellon-university/motorcycle-violations/reports/When-axis-aligned-boxes-break-Lessons-from-a-CVPR-published-traffic-AI--VmlldzoxNzU5NzgwNw",
+      "author": "Aman Goyal",
+      "summary": "A case study in treating representation as a design decision, not a given — with the code and the logging to prove it.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T15:10:46.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "8f61d69b2cdb63e4105a",
+      "sourceId": "microsoft-ai",
+      "sourceName": "微软AI",
+      "category": "公司研究",
+      "sourceColor": "#0A84FF",
+      "sourceColorAlt": "#5AC8FA",
+      "title": "How to build an AI agent: A simple guide for anyone",
+      "url": "https://news.microsoft.com/signal/articles/how-to-build-an-ai-agent-guide",
+      "author": "sbaynes",
+      "summary": "The post How to build an AI agent: A simple guide for anyone appeared first on Source.",
+      "imageUrl": "https://news.microsoft.com/signal/wp-content/uploads/2026/08/00_Header_How-to-build-an-agent.jpg",
+      "publishedAt": "2026-08-10T15:07:06.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "024ce3b6b4b4952984ae",
+      "sourceId": "google-ai",
+      "sourceName": "Google AI Blog",
+      "category": "公司研究",
+      "sourceColor": "#4285F4",
+      "sourceColorAlt": "#34A853",
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+      "author": "",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "ad3c7d29cad131351b45",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "author": "",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "87a6f3218bdb2f217283",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch",
+      "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch",
+      "author": "ExecuTorch Team at Meta",
+      "summary": "Today, Meta introduced Muse Glimmer, an open-weight, 30-billion-parameter model distilled from Meta’s Muse Spark for on-device agentic workflows. Alongside, ExecuTorch is adding end-to-end support for running Muse Glimmer on NVIDIA...",
+      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/08/Muse-Glimmer-text-image-input-experiment-on-M5-Pro.gif",
+      "publishedAt": "2026-08-10T13:42:54.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "fb7259b2f0f7a26bea1f",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "author": "",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "f34f6b7933d39643e3c1",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "框架与工具",
+      "sourceColor": "#FFBD2E",
+      "sourceColorAlt": "#FF8A00",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T10:05:36.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "e8e3472b8f99cff0af31",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "author": "",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "2b0ee96a59e04805d265",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "author": "",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "7f62331cb868e083a02c",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "author": "",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "e62212fa3ced28c8dddc",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "author": "",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "050535bf0437cc5a67ce",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "author": "",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "a81a2e5d192439c105fb",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "框架与工具",
+      "sourceColor": "#FFBD2E",
+      "sourceColorAlt": "#FF8A00",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
     {
       "id": "06d5e88efba0392ef50d",
       "sourceId": "nvidia",
@@ -20,7 +260,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg",
       "publishedAt": "2026-08-08T10:24:54.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "8691964f84f2d1ca70f5",
@@ -36,7 +276,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-08T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "34f2e53c4b0872cf043a",
@@ -52,7 +292,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-08T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "df79abe0a67dcc4e688d",
@@ -68,7 +308,7 @@
       "imageUrl": "https://news.microsoft.com/source/asia/wp-content/uploads/2026/08/DC_Final_Cover-1.jpg",
       "publishedAt": "2026-08-07T18:00:40.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "af526a525a429ed9e3fa",
@@ -84,7 +324,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-07T17:53:32.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "5ee4af96bed8dd162771",
@@ -100,7 +340,7 @@
       "imageUrl": "https://news.microsoft.com/source/asia/wp-content/uploads/2026/08/MSFT-Source-Page-Header-1024x576.png",
       "publishedAt": "2026-08-07T17:51:33.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "951f5c1887a6297c0b4b",
@@ -116,7 +356,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-07T15:20:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c8d4ae6d2b23dc211c30",
@@ -132,7 +372,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-07T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c3226f6aefc4fb915d69",
@@ -148,7 +388,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-07T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b5602b80538f6ac586a0",
@@ -164,7 +404,7 @@
       "imageUrl": "https://www.microsoft.com/en-us/startups/blog/wp-content/uploads/2026/08/fireworks-ai-social.jpg",
       "publishedAt": "2026-08-06T20:11:40.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2af47a9fbec6fce933f3",
@@ -180,7 +420,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T18:37:47.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "eff8a0266f98a5b412a8",
@@ -196,7 +436,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/08/All-PyTorch-Blog-Social-Images-18.png",
       "publishedAt": "2026-08-06T15:50:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f89a902dc046e84bbc0b",
@@ -212,7 +452,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-08-06T15:06:15.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f457f29b4297d324b259",
@@ -228,7 +468,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-6-nv-blog-1280x680-logo.jpg",
       "publishedAt": "2026-08-06T13:00:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "3fb2f651a0722252954d",
@@ -244,7 +484,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/cosmos-corp-blog-promo-1920x1080-1.mp4",
       "publishedAt": "2026-08-06T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ea07a9ebcbae6521c687",
@@ -276,7 +516,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "78915e6c9609a0dd0346",
@@ -292,7 +532,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "006773d435a5d2acbb0c",
@@ -308,7 +548,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T06:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6c17a2cb91abea324a1e",
@@ -324,7 +564,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "673913121028be10b695",
@@ -340,7 +580,23 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "b8d65d10b3855296c507",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Google Reshapes AI Leadership as Demis Hassabis Shifts to AGI Strategy Role",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/Google-Reshapes-AI-Leadership-as-Demis-Hassabis-Shifts-to-AGI-Strategy-Role--VmlldzoxNzY2ODY5Ng",
+      "author": "Brett Young",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17668696/preview.png?md5=1aa7a1c81138161cac5775ff55689612",
+      "publishedAt": "2026-08-05T22:31:27.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "da917a09ed4186bf74b4",
@@ -356,7 +612,7 @@
       "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Security-ImageryScan-Device-Blue-06-2026-scaled.jpg",
       "publishedAt": "2026-08-05T17:46:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ac67bc5ba451fbb4d993",
@@ -372,7 +628,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg",
       "publishedAt": "2026-08-05T13:00:47.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7142ea30426f03e35917",
@@ -404,7 +660,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-04T19:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1a7bdd801c0d95319e7c",
@@ -420,7 +676,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/regionalhubnsf.webp",
       "publishedAt": "2026-08-04T16:00:56.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "272987f8c26bcfff1ff7",
@@ -436,7 +692,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/alpamayo-launch-kv-blog-1920x1080-1.jpg",
       "publishedAt": "2026-08-04T15:00:49.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6558395bb5c5af5a26e0",
@@ -452,7 +708,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/ai-storage-fms-1920x1080-1.jpg",
       "publishedAt": "2026-08-04T15:00:47.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "e4a5df3957a2a8b27d0b",
@@ -468,7 +724,7 @@
       "imageUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/08/Accelerating-Frontier-employee-experience-1b.jpg",
       "publishedAt": "2026-08-04T14:31:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b66aa5f844123861b243",
@@ -500,7 +756,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-04T13:58:29.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6d7aafbf55bd6303df6a",
@@ -516,7 +772,7 @@
       "imageUrl": "https://news.microsoft.com/signal/wp-content/uploads/2026/08/PRISM-Signal-blog-lead-image-1024x683.png",
       "publishedAt": "2026-08-04T13:38:55.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f18d1709d212709084c7",
@@ -532,7 +788,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-press-osaia-5518050-1280x680-r2.png",
       "publishedAt": "2026-08-04T13:00:47.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "48d7241b5cf8a312a054",
@@ -548,7 +804,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-04T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "0f50e76b44990820e72b",
@@ -580,7 +836,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-04T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2fbd432809280961f1fd",
@@ -596,7 +852,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-03T22:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "85d9f91f99313c70a533",
@@ -612,7 +868,7 @@
       "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Featured-image-CaptiveCrunch-1.png",
       "publishedAt": "2026-08-03T18:49:37.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "13222cee46183d55e2d0",
@@ -628,7 +884,7 @@
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/25thHero_Aug3_16x9-11c00838353536c7e314.jpg",
       "publishedAt": "2026-08-03T16:44:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7d029d2d070a98a1ae2a",
@@ -644,7 +900,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-03T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "0aa920909127ef2f629d",
@@ -676,7 +932,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-03T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "59d5259fab364533ab02",
@@ -692,7 +948,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-03T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "4af8d3647dc04763ae51",
@@ -708,7 +964,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-02T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "9aeb3166194916cc4984",
@@ -724,7 +980,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-01T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "52f6b90abe02ed52fc9e",
@@ -740,7 +996,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-01T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ad26e2beeb69bf67e18d",
@@ -756,7 +1012,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-31T19:58:22.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6700fa934d2a58d2379b",
@@ -820,7 +1076,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-31T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "e59f6a817404b25a36ed",
@@ -836,7 +1092,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-31T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "43e991b5d0e220187863",
@@ -868,7 +1124,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "baa935adbca674c90fa1",
@@ -884,7 +1140,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "d71363af6e63cc52b4c8",
@@ -900,7 +1156,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-31T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "3fb00c72ef68ef1b2a21",
@@ -964,7 +1220,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/All-PyTorch-Blog-Social-Images-17.png",
       "publishedAt": "2026-07-30T15:26:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "11b261ab2e38dd83b84d",
@@ -980,7 +1236,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-30T15:09:09.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b4bf14ecc554b582287b",
@@ -996,7 +1252,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.width-1300.png",
       "publishedAt": "2026-07-30T15:00:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "3ba918b78590cf8de569",
@@ -1028,7 +1284,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg",
       "publishedAt": "2026-07-30T13:00:20.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "0372b2ac3b60771ee911",
@@ -1044,7 +1300,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-30T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "dcef7dca2473b9e4ca93",
@@ -1060,7 +1316,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-30T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2cffc1ab49d1e8e45e64",
@@ -1076,7 +1332,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-30T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "bd5eb1b5d08c9823e6da",
@@ -1172,7 +1428,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-1440x810.png",
       "publishedAt": "2026-07-29T16:02:10.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7963db88bea3843bb34c",
@@ -1188,7 +1444,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-29T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "0bcdda349e516c8b06d0",
@@ -1204,7 +1460,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-ollama-lm-studio-llama-cpp-comparison-feature-scaled.jpg",
       "publishedAt": "2026-07-29T12:00:13.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c82841266305c56928cd",
@@ -1220,7 +1476,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-29T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c4831fb03191c8a25c7d",
@@ -1236,7 +1492,7 @@
       "imageUrl": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg",
       "publishedAt": "2026-07-29T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6e25e0031b749896bd2a",
@@ -1252,7 +1508,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-29T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "e13f6339113008d70c02",
@@ -1268,7 +1524,23 @@
       "imageUrl": null,
       "publishedAt": "2026-07-28T18:13:05.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "803e05aa661399516477",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Tutorial: Evaluating GPT-5.6, GPT-5.5, and GLM-5.2 on repository-level coding",
+      "url": "https://wandb.ai/ai-team-articles/GPT-5.5/reports/Tutorial-Evaluating-GPT-5-6-GPT-5-5-and-GLM-5-2-on-repository-level-coding--VmlldzoxNjY0Njc4MA",
+      "author": "Tarun R Jain",
+      "summary": "How GPT-5.6, GPT-5.5, and GLM-5.2 compare on repository-level coding: hidden-test pass rates, reliability, latency, and estimated cost, measured with W&amp;B Weave.",
+      "imageUrl": null,
+      "publishedAt": "2026-07-28T17:40:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "359c627c69e2694f1ab4",
@@ -1284,7 +1556,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-28T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "0b9906b279a506e8206c",
@@ -1332,7 +1604,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-28T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "71a7fae3d4ef9e6e4505",
@@ -1364,7 +1636,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson01_captions.mp4",
       "publishedAt": "2026-07-28T15:00:19.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c7c9c8f2472f4c082bc6",
@@ -1380,7 +1652,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-28T13:21:37.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7cb3c950f4e77c139476",
@@ -1396,7 +1668,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-28T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b04716b6cc2533a6995c",
@@ -1412,7 +1684,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-28T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "a23743d3e971111fb484",
@@ -1492,7 +1764,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-5-architectural-patterns-persistent-memory-state-ai-agents-feature.png",
       "publishedAt": "2026-07-27T12:00:46.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "e936bf27202b3dc3c6e5",
@@ -1508,7 +1780,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-27T09:32:20.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "9ac7438329910851205c",
@@ -1524,7 +1796,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080-1.png",
       "publishedAt": "2026-07-27T09:00:07.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "14b90e73b546f2f98393",
@@ -1540,7 +1812,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-27T03:30:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "825276b4b43c6824bb30",
@@ -1556,7 +1828,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg",
       "publishedAt": "2026-07-27T00:45:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "be68139d0b5b83bf89c9",
@@ -1572,7 +1844,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-27T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "8a4e6f97cc6b717bfe37",
@@ -1588,7 +1860,7 @@
       "imageUrl": "https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png",
       "publishedAt": "2026-07-26T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "04e5de6d0e094bb31cde",
@@ -1604,7 +1876,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-26T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "744d94af131aa617e0a0",
@@ -1620,7 +1892,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-26T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "e24b5673adb947811ff8",
@@ -1636,7 +1908,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-25T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "fa1df96cc68c3e3b6e4b",
@@ -1652,7 +1924,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-25T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "44b6c9d689f1ed22f382",
@@ -1700,7 +1972,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems-feature.png",
       "publishedAt": "2026-07-24T12:44:38.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ebac4941f2b6332d5893",
@@ -1716,7 +1988,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-korea-ai-1920x1080-1.png",
       "publishedAt": "2026-07-24T04:34:27.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "821098cce8418821d396",
@@ -1732,7 +2004,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-07-23T21:06:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "30a618a96403d86967b2",
@@ -1780,7 +2052,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/All-PyTorch-Blog-Social-Images-16.png",
       "publishedAt": "2026-07-23T17:22:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "cb5660194dd4e2fb730c",
@@ -1844,7 +2116,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-23-blog-1920x1080-logo.jpg",
       "publishedAt": "2026-07-23T13:00:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ad0ab946649d63e5d8e9",
@@ -1860,7 +2132,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/MLM-Shittu-An-Introduction-to-Loop-Engineering-scaled-1.png",
       "publishedAt": "2026-07-23T12:00:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f3250d2073469a19b8e1",
@@ -1876,7 +2148,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg",
       "publishedAt": "2026-07-23T02:00:46.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "46d7134bf4a05affdb96",
@@ -1892,7 +2164,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "bfaa4df52857ab5bcb08",
@@ -1908,7 +2180,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "87b45c117ce56e026084",
@@ -1925,6 +2197,22 @@
       "publishedAt": "2026-07-22T19:50:41.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-07-28T03:35:15.810Z"
+    },
+    {
+      "id": "d553f07b2b85fff164b7",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "World action models use robot dreams to make robot actions",
+      "url": "https://wandb.ai/wandb-smle/dreamzero-droid-upstream/reports/World-action-models-use-robot-dreams-to-make-robot-actions--VmlldzoxNzE4NzA3MA",
+      "author": "Anu Vatsa",
+      "summary": "Analyzing World Action Models’ ability to zero-shot learn new tasks.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb-smle/images/views/17187070/preview.png?md5=49eaa2bcec5836e68470b740067c76d4",
+      "publishedAt": "2026-07-22T18:03:42.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f4802356958c52668fc1",
@@ -1972,7 +2260,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/PyTorch-Foundation-Project-Updates.png",
       "publishedAt": "2026-07-22T14:44:38.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "9a79ab7b3f72b31f2433",
@@ -1988,7 +2276,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
       "publishedAt": "2026-07-22T13:38:54.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "65f4c202a2db620bcf17",
@@ -2004,7 +2292,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png",
       "publishedAt": "2026-07-22T13:00:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6548284ad65c267c2d97",
@@ -2020,7 +2308,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "eda42bad5e841e2adf31",
@@ -2036,7 +2324,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7aac73106153ab6504e2",
@@ -2052,7 +2340,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "151b6a14ef8602618a79",
@@ -2084,7 +2372,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-22T12:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f81de19a1939d8e10c43",
@@ -2100,7 +2388,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-22T05:30:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ff1da0c4a17c39eacc1a",
@@ -2132,7 +2420,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2025/12/PyTorch-Conference-North-America-2026-1024x538.png",
       "publishedAt": "2026-07-21T23:52:08.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "181a515916a870fa210e",
@@ -2148,7 +2436,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg",
       "publishedAt": "2026-07-21T22:35:45.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1d9f1506d6acf2c7bc85",
@@ -2215,6 +2503,22 @@
       "fetchedAt": "2026-08-10T02:34:17.619Z"
     },
     {
+      "id": "070c591770ed623aef11",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Google’s Gemini 3.6 Flash and 3.5 Flash-Lite Benchmark Scores",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/Google-s-Gemini-3-6-Flash-and-3-5-Flash-Lite-Benchmark-Scores---VmlldzoxNzU0OTEzNg",
+      "author": "Brett Young",
+      "summary": "Google has introduced Gemini 3.6 Flash and Gemini 3.5 Flash-Lite with a strong emphasis on measurable improvements across coding, reasoning, computer use, long-context understanding, and real-world agent benchmarks.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17549136/preview.png?md5=fe9f971cff92af376cef906da0c4049d",
+      "publishedAt": "2026-07-21T15:58:39.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "3188e9ed0b50c9a485e9",
       "sourceId": "nvidia",
       "sourceName": "NVIDIA Blog",
@@ -2228,7 +2532,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1.png",
       "publishedAt": "2026-07-21T15:36:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "8de1bc67f87d8c84f552",
@@ -2244,7 +2548,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
       "publishedAt": "2026-07-21T15:16:30.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c67fb1ca239a265309b9",
@@ -2292,7 +2596,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-current-state-agentic-ai-feature.png",
       "publishedAt": "2026-07-21T12:33:09.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "d6c9b5a23f97479d79be",
@@ -2327,22 +2631,6 @@
       "fetchedAt": "2026-08-10T02:34:17.619Z"
     },
     {
-      "id": "0ecd7f4f8e6360666f53",
-      "sourceId": "openai",
-      "sourceName": "OpenAI Blog",
-      "category": "公司研究",
-      "sourceColor": "#10A37F",
-      "sourceColorAlt": "#6EE7C4",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "author": "",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "imageUrl": null,
-      "publishedAt": "2026-07-21T00:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
-    },
-    {
       "id": "a4daf2091ba4f350f61b",
       "sourceId": "huggingface",
       "sourceName": "Hugging Face",
@@ -2353,6 +2641,22 @@
       "url": "https://huggingface.co/blog/grabette",
       "author": "",
       "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "0ecd7f4f8e6360666f53",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "author": "",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "imageUrl": null,
       "publishedAt": "2026-07-21T00:00:00.000Z",
       "dateUnknown": false,
@@ -2420,7 +2724,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-langgraph-cover.png",
       "publishedAt": "2026-07-20T11:27:18.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "aec8817e810e97eced16",
@@ -2468,7 +2772,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "3b3c452de8b5754554e5",
@@ -2484,7 +2788,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "4f7d7c6a32d529d0ec33",
@@ -2500,7 +2804,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b2ffba686c9f636db5ef",
@@ -2516,7 +2820,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "965eac03e74dd688704b",
@@ -2580,7 +2884,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-17T15:00:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "086f6f2e8d879f3c5094",
@@ -2596,7 +2900,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-agentic-ai-security-defending-against-prompt-injection-and-tool-misuse-feature.png",
       "publishedAt": "2026-07-17T12:00:32.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c9858e00d8a00a3c84d7",
@@ -2660,7 +2964,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "5466c9f9672da05344c3",
@@ -2676,7 +2980,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "3ba3c48a325340080c38",
@@ -2724,7 +3028,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-local-ai-ollama-setup-feature-b-scaled.png",
       "publishedAt": "2026-07-16T12:25:41.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "d59341acde51e70c128b",
@@ -2740,7 +3044,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-16T11:49:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "41f43d567a345983296f",
@@ -2756,7 +3060,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-16T09:30:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "486e949a5ff26250ddf6",
@@ -2788,7 +3092,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7174f50de7fc0a4b0dad",
@@ -2868,7 +3172,23 @@
       "imageUrl": null,
       "publishedAt": "2026-07-15T17:27:01.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "02308b57ed6c0d72b6a9",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Track, guard, and remediate AI usage with W&amp;B Weave and CrowdStrike Falcon AIDR",
+      "url": "https://wandb.ai/wandb_fc/crowdstrike-aidr/reports/Track-guard-and-remediate-AI-usage-with-W-B-Weave-and-CrowdStrike-Falcon-AIDR--VmlldzoxNzI1OTczNA",
+      "author": "Justin Tenuto",
+      "summary": "Learn how Weave and CrowdStrike Falcon AI Detection and Response can help ensure internal AI systems are handling sensitive data appropriately",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17259734/preview.png?md5=e39b07aed95ad1fcc8aa2c99ac4db3e6",
+      "publishedAt": "2026-07-15T15:19:54.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "cfd096a5b86475622f75",
@@ -2884,7 +3204,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/06/Triton-Plugin-Extensions-Enabling-TLX-and-Custom-Compiler-Passes-Out-of-the-Box.png",
       "publishedAt": "2026-07-15T15:09:15.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "61bf6c758514df4da778",
@@ -2916,7 +3236,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-scikit-ollama-for-scikit-llm-ollama-integration-feature.png",
       "publishedAt": "2026-07-15T12:00:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "65e8a44a7adff23ef449",
@@ -2980,7 +3300,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-15T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "aae9dff736b1609cbfd8",
@@ -2996,7 +3316,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-15T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "698bea7c6b4a190ddf5f",
@@ -3012,7 +3332,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-07-14T19:20:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "696e6f1f3b925c9d2a2d",
@@ -3044,7 +3364,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-14T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b9bd29ec6103f865e7a4",
@@ -3076,7 +3396,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-LLM-Evaluation-Frameworks-Compared.png",
       "publishedAt": "2026-07-14T12:00:29.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "dd05e8a791d80286077a",
@@ -3156,7 +3476,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-13T12:37:28.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "d334f30803416b5a1d22",
@@ -3188,7 +3508,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-13T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7acf0dce3aa7f6d41cb7",
@@ -3220,7 +3540,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-12T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f0ade9b82fe92ccca81c",
@@ -3236,7 +3556,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-12T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "921491b9726415ec208d",
@@ -3252,7 +3572,23 @@
       "imageUrl": null,
       "publishedAt": "2026-07-11T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "33707f375b72c4882313",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "GLM-5.2: The open coding model that put the critic back into RL",
+      "url": "https://wandb.ai/ai-team-articles/GLM-5.2/reports/GLM-5-2-The-open-coding-model-that-put-the-critic-back-into-RL--VmlldzoxNzQ3MTIwOA",
+      "author": "Shreyan Basu Ray",
+      "summary": "A close look at how Zhipu built GLM-5.2, from DeepSeek Sparse Attention to critic-based PPO, with a live agentic coding demo traced in W&amp;B Weave.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/17471208/preview.png?md5=4f9e8b47869557e2b1c009e4aac34dce",
+      "publishedAt": "2026-07-11T00:02:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "cf8f6b52c9c36b585e2e",
@@ -3268,7 +3604,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-11T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "92504b481ecfa886fe4f",
@@ -3348,7 +3684,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/All-PyTorch-Blog-Social-Images-12.png",
       "publishedAt": "2026-07-10T14:35:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "742c08f983f0ac8bbfab",
@@ -3380,7 +3716,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c7f82b755f237282403c",
@@ -3413,6 +3749,22 @@
       "publishedAt": "2026-07-09T21:40:07.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-07-17T09:34:37.816Z"
+    },
+    {
+      "id": "fcd1bb71b35249ea72bb",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "GPT-5.6 Benchmark Breakdown: New Results in Coding, Biology, and Cybersecurity",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/GPT-5-6-Benchmark-Breakdown-New-Results-in-Coding-Biology-and-Cybersecurity--VmlldzoxNzQ1NzEwOA",
+      "author": "Brett Young",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": "2026-07-09T20:47:18.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7cb9ab62b55fcc8ddedb",
@@ -3588,7 +3940,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-08T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f39d835a5e1bb4f2381b",
@@ -3620,7 +3972,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T21:15:33.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "10b8d7bda254c37f418f",
@@ -3652,7 +4004,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T15:20:06.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "5a85d5af1dd7424459bb",
@@ -3684,7 +4036,7 @@
       "imageUrl": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
       "publishedAt": "2026-07-07T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "513f4656b709afa7e987",
@@ -3700,7 +4052,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-07T08:54:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "743f470887a6fa9a5138",
@@ -3732,7 +4084,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6ccdae69e42c7adff405",
@@ -3748,7 +4100,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c2b1ef1f1aec97aaf0d0",
@@ -3799,6 +4151,22 @@
       "fetchedAt": "2026-08-06T03:36:37.820Z"
     },
     {
+      "id": "a656a8e4cb4f7b8f4f8b",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Tabular ML didn't die. It was just waiting for agents",
+      "url": "https://wandb.ai/wandb_fc/tabular-nomad/reports/-Tabular-ML-didn-t-die-It-was-just-waiting-for-agents--VmlldzoxNzQwMzQ5Ng",
+      "author": "Lukas Innig",
+      "summary": "Learn how our tabular data agent, took #1 on the MLE-bench tabular slice with two golds, three above-median, four-for-four valid submissions.",
+      "imageUrl": null,
+      "publishedAt": "2026-07-06T17:34:28.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "162e78072470af5a8858",
       "sourceId": "nvidia",
       "sourceName": "NVIDIA Blog",
@@ -3828,7 +4196,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-06T15:30:55.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ae9b9c4819a5575457ec",
@@ -3876,7 +4244,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-06T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ad54120494988b33f4b2",
@@ -3892,7 +4260,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-06T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "32d1e70faa5dc54e1691",
@@ -3908,7 +4276,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-05T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "a295eae9eca3b1890ec2",
@@ -3924,7 +4292,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-05T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "90e9fcd7cc679874dd20",
@@ -3940,7 +4308,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-05T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6a6a7c5c749377e505bb",
@@ -3956,7 +4324,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "27d5312d7a125ebd97c8",
@@ -3972,7 +4340,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "8c948740b86467eedef4",
@@ -3988,7 +4356,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-04T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "8ee9c9753143e40d5e21",
@@ -4020,7 +4388,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-1440x810.jpg",
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6e72bd9bf148ef6a8763",
@@ -4036,7 +4404,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1d53da74bf540b47c030",
@@ -4052,7 +4420,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "574a80d136ade10542ab",
@@ -4132,7 +4500,23 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-01T18:15:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "3c9f526e4b6ee678525e",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Product newsletter: Updates and new features for June 2026",
+      "url": "https://wandb.ai/wandb_fc/product-announcements-fc/reports/Product-newsletter-Updates-and-new-features-for-June-2026--VmlldzoxNzM4NjY3Nw",
+      "author": "Justin Tenuto",
+      "summary": "From the launch of ARIA, our new ML research assistant, to new Serverless Inference models and more, here's a roundup of what we released in June",
+      "imageUrl": null,
+      "publishedAt": "2026-07-01T16:13:51.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "5d84db0d360aa0ad81d9",
@@ -4148,7 +4532,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-01T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "141effd0a442b2c800a8",
@@ -4180,7 +4564,7 @@
       "imageUrl": "https://bair.berkeley.edu/static/blog/grads2026/baifeng-shi.jpg",
       "publishedAt": "2026-07-01T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ed88dccf08e80b75d4a8",
@@ -4196,7 +4580,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "70ed633edb4721c271a2",
@@ -4212,7 +4596,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-01T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "e296d16e2424d4567023",
@@ -4228,7 +4612,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-30T18:32:50.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "62cb2f61f718ff6a9503",
@@ -4276,7 +4660,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.width-1300.png",
       "publishedAt": "2026-06-30T16:02:40.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b298dc6b601895a08e6c",
@@ -4324,7 +4708,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-30T14:39:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1f505f98d03003d0ffce",
@@ -4388,7 +4772,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-30T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "79e60291b62c1f8219af",
@@ -4404,7 +4788,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
       "publishedAt": "2026-06-30T06:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "234811bb1e47deaaeb46",
@@ -4420,7 +4804,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-30T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "45dd3e2d65a41e700fba",
@@ -4484,7 +4868,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-29T18:02:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "40cdc5880c69ad82810f",
@@ -4500,7 +4884,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
       "publishedAt": "2026-06-29T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "03df03fe09b583a66507",
@@ -4533,6 +4917,22 @@
       "publishedAt": "2026-06-29T12:00:30.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-07-29T03:39:22.169Z"
+    },
+    {
+      "id": "f72f179dc6086c91c3b5",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
+      "url": "https://wandb.ai/wandb/aria/reports/Introducing-CoreWeave-ARIA-AI-Research-and-Iteration-Agent--VmlldzoxNzM1MzA4Mg",
+      "author": "Tim Sweeney",
+      "summary": "Your experiments are already tracked. Now let the agent read them, analyze them, and help you turn every experiment into continuous improvement.",
+      "imageUrl": null,
+      "publishedAt": "2026-06-29T12:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "32a0309f57ab804d1af6",
@@ -4580,7 +4980,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-27T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2fb4823365afe88936de",
@@ -4596,7 +4996,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-27T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7ed392a17326759ba94a",
@@ -4612,7 +5012,23 @@
       "imageUrl": null,
       "publishedAt": "2026-06-27T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "3f7ae19c51e846b57e26",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Building an observable robotics data flywheel",
+      "url": "https://wandb.ai/ai-team-articles/robotics-data-flywheel/reports/Building-an-observable-robotics-data-flywheel--VmlldzoxNzMwMTA0MQ",
+      "author": "Mostafa Ibrahim",
+      "summary": "Build an observable robotics data flywheel with PPO, Weave, and synthetic telemetry. Log failures, retrain on hard tracks, and verify model recovery.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/17301041/preview.png?md5=7f6d2aabac2dcb2604a6e018d1341044",
+      "publishedAt": "2026-06-26T23:59:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2e368c1f7e393b795c81",
@@ -4660,7 +5076,39 @@
       "imageUrl": null,
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "21ade9368c716a7e142d",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Getting started with Kimi 2.7 on W&amp;B inference",
+      "url": "https://wandb.ai/onlineinference/genai-research/reports/Getting-started-with-Kimi-2-7-on-W-B-inference--VmlldzoxNzI2MjEwMg",
+      "author": "Dave Davies",
+      "summary": "Explore Kimi 2.7 through progressively more complex software engineering tasks while using Weave to trace, analyze, and evaluate every step.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/onlineinference/images/views/17262102/preview.png?md5=bb8a5cd84c0cd7341d7d23316e871b4b",
+      "publishedAt": "2026-06-25T23:47:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "f32fd90c3d5fb79f4974",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "We'll be at the AI Engineer World's Fair - Come Say Hi",
+      "url": "https://wandb.ai/wandb_fc/event-announcements/reports/We-ll-be-at-the-AI-Engineer-World-s-Fair-Come-Say-Hi--VmlldzoxNzM0MjQ1NA",
+      "author": "Dave Davies",
+      "summary": "Join Weights &amp; Biases by CoreWeave at AI Engineer World’s Fair in SF. Visit booth UG 24 for demos, swag, speaker sessions, and new Weave agent tracing features.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17342454/preview.png?md5=1ace7d46100773c628ed1702893f7364",
+      "publishedAt": "2026-06-25T19:37:32.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "649f8608bf5454840e4c",
@@ -4676,7 +5124,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
       "publishedAt": "2026-06-25T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "43053bca7ae858dc9365",
@@ -4740,7 +5188,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
       "publishedAt": "2026-06-24T16:30:01.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "cb5d57c9452a079c5d59",
@@ -4756,7 +5204,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-24T16:00:13.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ab3f16b58ab72315f619",
@@ -4804,7 +5252,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "06a0ba2bf68c1be146bc",
@@ -4820,7 +5268,55 @@
       "imageUrl": null,
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "0fe0940768fcc89615a0",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Getting image generation models to conform to your brand",
+      "url": "https://wandb.ai/ai-team-articles/getting-image-generation-models-to-conform-to-your-brand/reports/Getting-image-generation-models-to-conform-to-your-brand--VmlldzoxNzI0NTM2Nw",
+      "author": "Mostafa Ibrahim",
+      "summary": "Learn how to build a brand-aware evaluation loop for image generation models using W&amp;B and Weave. Track prompt fidelity, FID, and brand compliance seamlessly.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/17245367/preview.png?md5=792ed69f39a90a85f7b09bf739bfc7f4",
+      "publishedAt": "2026-06-23T22:45:43.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "64c6c8fb42266d485820",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "How to structure effective Agent Skills and evaluate whether they actually work",
+      "url": "https://wandb.ai/ai-team-articles/agent-skills/reports/How-to-structure-effective-Agent-Skills-and-evaluate-whether-they-actually-work--VmlldzoxNjg5MzMwMw",
+      "author": "Tarun R Jain",
+      "summary": "Improve your Vibe Coding Skills using Agent Skills and evaluate them with Skills Bench and W&amp;B Weave",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/16893303/preview.png?md5=5c38d0e82a7fa120d4aca51e6eaf00f6",
+      "publishedAt": "2026-06-23T22:31:51.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "49dd346da1b73b649bd9",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "ART-Optimized Megatron (AOM): 12x higher training throughput",
+      "url": "https://wandb.ai/wandb_fc/product-announcements-fc/reports/ART-Optimized-Megatron-AOM-12x-higher-training-throughput--VmlldzoxNzMxNzY1MA",
+      "author": "Austin Veselka",
+      "summary": "How we massively improved training throughput on our open source ART training library",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17317650/preview.png?md5=01dbe39c12dbaf1508b4637fce10c29e",
+      "publishedAt": "2026-06-23T19:48:59.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "d2c656a20bed09968790",
@@ -4837,6 +5333,22 @@
       "publishedAt": "2026-06-23T17:00:00.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-07-22T03:46:24.781Z"
+    },
+    {
+      "id": "bca87ab5388942ecf977",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "GLM-5.2 inference: Easy tracing and evaluation with Weave",
+      "url": "https://wandb.ai/wandb_fc/genai-research/reports/GLM-5-2-inference-Easy-tracing-and-evaluation-with-Weave--VmlldzoxNzMxNzE2OQ",
+      "author": "Dave Davies",
+      "summary": "Learn how to run GLM-5.2 inference, trace LLM calls with Weave, and evaluate results easily. Follow step-by-step code and boost your AI workflow!",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17317169/preview.png?md5=d96e25de49cd41a6223a31f0a305f1dd",
+      "publishedAt": "2026-06-23T16:58:52.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "ecbacbafbd084e7d7ad9",
@@ -4884,7 +5396,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-23T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "c8220a89e5fabefe94e8",
@@ -4900,7 +5412,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-23T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1b6d34c680747d017aba",
@@ -4932,7 +5444,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-22T13:18:56.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "bc2684057f30eae3e2ae",
@@ -5044,7 +5556,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-20T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "5049033a1f7461de1be7",
@@ -5060,7 +5572,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "aa9c3a608ef83cdd30ab",
@@ -5076,7 +5588,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1627e73c91e88fb2ceb6",
@@ -5143,6 +5655,22 @@
       "fetchedAt": "2026-08-06T03:36:37.820Z"
     },
     {
+      "id": "f78621af5deee725fde1",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Tutorial: Running inference with Kimi K2.7 Code using W&amp;B Inference",
+      "url": "https://wandb.ai/onlineinference/genai-research/reports/Tutorial-Running-inference-with-Kimi-K2-7-Code-using-W-B-Inference--VmlldzoxMzk1Mjg5NA",
+      "author": "Dave Davies",
+      "summary": "Getting set up and running Kimi K2, MoonShot AI's advanced long-context language model, in Python using W&amp;B Inference. We'll be working with the moonshotai/Kimi-K2-Instruct model.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/onlineinference/images/views/13952894/preview.png?md5=df30d50ef57b7867374aee87b111ed7a",
+      "publishedAt": "2026-06-17T22:08:10.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "8de0d3d458ad80967467",
       "sourceId": "google-ai",
       "sourceName": "Google AI Blog",
@@ -5156,7 +5684,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
       "publishedAt": "2026-06-17T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "462fa8af939bcf951eaf",
@@ -5172,7 +5700,7 @@
       "imageUrl": "https://storage.ghost.io/c/38/9a/389ab7af-1195-4ce6-9b1f-d9fb39ea9790/content/images/2026/06/00-thinking-in-life.png",
       "publishedAt": "2026-06-17T14:02:39.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "97b7c56b9566b503bca9",
@@ -5236,7 +5764,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-16T21:29:50.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "fe803bd03dac45d48f76",
@@ -5252,7 +5780,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-16T15:46:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "7d972cce618f098004d3",
@@ -5284,7 +5812,7 @@
       "imageUrl": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20260729-1718",
       "publishedAt": "2026-06-15T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "5019a2511616c883dc4b",
@@ -5351,6 +5879,22 @@
       "fetchedAt": "2026-08-04T03:36:41.631Z"
     },
     {
+      "id": "635f822e6fac8ac0c485",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Building a production-grade MLOps pipeline for VLA models",
+      "url": "https://wandb.ai/byyoung3/finetune-gr00t-n1d6/reports/Building-a-production-grade-MLOps-pipeline-for-VLA-models--VmlldzoxNjgxOTMxMA",
+      "author": "Brett Young",
+      "summary": "This report covers the development of a compact vision-language-action model built around Gemma 3 270M.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/16819310/preview.png?md5=48b2fdeba331e26d7333aada8a62fe66",
+      "publishedAt": "2026-06-11T21:46:39.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "b1e15092d23e38e8b655",
       "sourceId": "google-ai",
       "sourceName": "Google AI Blog",
@@ -5364,7 +5908,23 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
       "publishedAt": "2026-06-11T20:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "603d62efb2ec28a542ff",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Getting started with embodied chain-of-thought (ECoT)",
+      "url": "https://wandb.ai/ai-team-articles/ecot-pipeline-demo/reports/Getting-started-with-embodied-chain-of-thought-ECoT---VmlldzoxNjczMTg0OQ",
+      "author": "Shreyan Basu Ray",
+      "summary": "Learn how to get started with Embodied Chain-of-Thought, a robotics reasoning approach that helps vision-language-action models plan, explain, and execute grounded actions.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/16731849/preview.png?md5=4b1d7f82bde4d15b620f4db134cf2044",
+      "publishedAt": "2026-06-11T19:08:23.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "965d9128d1056f6422eb",
@@ -5396,7 +5956,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
       "publishedAt": "2026-06-10T16:24:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2f01d8c30bd797efa9d6",
@@ -5412,7 +5972,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-10T10:21:19.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "15b81510155394f0fe7a",
@@ -5431,6 +5991,22 @@
       "fetchedAt": "2026-07-31T03:50:01.973Z"
     },
     {
+      "id": "8a41cc69247b75e996f6",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Claude Fable 5 Benchmark Scores",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/Claude-Fable-5-Benchmark-Scores--VmlldzoxNzE3NTE3MQ",
+      "author": "Brett Young",
+      "summary": "Anthropic has released Claude Fable 5 for general use and Claude Mythos 5 for restricted trusted-access deployments, presenting the pair as its most capable models to date.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17175171/preview.png?md5=dcca4af6fdf6db3adb715d3a03832b49",
+      "publishedAt": "2026-06-09T18:58:33.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "bd0078d8236bec19b8e3",
       "sourceId": "deepmind",
       "sourceName": "DeepMind Blog",
@@ -5444,7 +6020,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3-5_Live_Translate_hero.width-1300.png",
       "publishedAt": "2026-06-09T15:16:25.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "22c845c4140f632304fb",
@@ -5460,7 +6036,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
       "publishedAt": "2026-06-09T14:10:19.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1ce26e0ab6cc98f2dacf",
@@ -5476,7 +6052,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/130.width-1300.jpg",
       "publishedAt": "2026-06-09T14:02:33.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "a37a858e2e16350eb0a6",
@@ -5495,6 +6071,22 @@
       "fetchedAt": "2026-07-21T03:45:09.471Z"
     },
     {
+      "id": "751ce1d7e57d1c515716",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Governance workflows for AI agents: an evidence-backed review gate on W&amp;B Weave",
+      "url": "https://wandb.ai/wandb-smle/responsible-ai/reports/Governance-workflows-for-AI-agents-an-evidence-backed-review-gate-on-W-B-Weave--VmlldzoxNzEyNTg5OQ",
+      "author": "Karan Nisar",
+      "summary": "A technical walkthrough of an open-source AI governance toolkit that turns scattered evals, red-team runs, and approvals into one reproducible review gate, with every finding traced in W&amp;B Weave.",
+      "imageUrl": null,
+      "publishedAt": "2026-06-08T19:03:54.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "a65214a672ca249ddbc0",
       "sourceId": "deepmind",
       "sourceName": "DeepMind Blog",
@@ -5508,7 +6100,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-08T13:04:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "78745b31becf9405bf4a",
@@ -5591,6 +6183,22 @@
       "fetchedAt": "2026-07-27T04:02:05.858Z"
     },
     {
+      "id": "62919c98898cd55420eb",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Tutorial: Benchmarking Claude Opus 4.8 honesty with BeHonest and W&amp;B Weave",
+      "url": "https://wandb.ai/byyoung3/claude_4/reports/Tutorial-Benchmarking-Claude-Opus-4-8-honesty-with-BeHonest-and-W-B-Weave--VmlldzoxMjkzNjAzNA",
+      "author": "Brett Young",
+      "summary": "How honest is Claude Opus 4.8 compared to 4.7? We ran both models through the BeHonest benchmark and logged every result into W&amp;B Weave.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/12936034/preview.png?md5=316a6609ef0104dd81590402d1599603",
+      "publishedAt": "2026-06-05T19:23:35.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "a5ca068b6dc2943fd8a8",
       "sourceId": "google-ai",
       "sourceName": "Google AI Blog",
@@ -5604,7 +6212,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
       "publishedAt": "2026-06-05T14:45:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "112c57bc9602c7ee4a2b",
@@ -5636,7 +6244,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-06-04T19:10:09.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "3ae41badff6ff1797898",
@@ -5653,6 +6261,70 @@
       "publishedAt": "2026-06-03T13:00:00.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-08-10T02:34:17.619Z"
+    },
+    {
+      "id": "093db5453a2b514650cc",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Microsoft Launches MAI-Thinking-1 and MAI-Code-1-Flash",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/Microsoft-Launches-MAI-Thinking-1-and-MAI-Code-1-Flash--VmlldzoxNzEwMDMxNA",
+      "author": "Brett Young",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17100314/preview.png?md5=02eaad1943744fa5b311c8dfb7f0c1d2",
+      "publishedAt": "2026-06-02T23:30:36.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "0158e491e2dc2985920b",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "New in W&amp;B Weave: Observability and continuous improvement for production agents",
+      "url": "https://wandb.ai/wandb_fc/product-announcements-fc/reports/New-in-W-B-Weave-Observability-and-continuous-improvement-for-production-agents--VmlldzoxNzAzMTcxNg",
+      "author": "Emmanuel Turlay",
+      "summary": "We're shipping a new set of capabilities that make Weave the best tool to raise and maintain agent quality in production. Here's what you need to know.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17031716/preview.png?md5=7d99a2152f68a7a8b1182fadfeb33062",
+      "publishedAt": "2026-06-02T17:31:44.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "80be7c9144eddde86ec1",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Build a Robotics Data Flywheel on CoreWeave using NVIDIA Cosmos 3",
+      "url": "https://wandb.ai/wandb_fc/nvidia-cosmos/reports/Build-a-Robotics-Data-Flywheel-on-CoreWeave-using-NVIDIA-Cosmos-3--VmlldzoxNzA3MzA2Ng",
+      "author": "Justin Hodges",
+      "summary": "A foundation is large-scale synthetic data and compute, a requirement that is no longer an issue when teaming up with CoreWeave and NVIDIA.",
+      "imageUrl": null,
+      "publishedAt": "2026-06-02T16:52:43.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "22034d88d11e7abe6238",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Product newsletter: Updates and new features for May 2026",
+      "url": "https://wandb.ai/wandb_fc/product-announcements-fc/reports/Product-newsletter-Updates-and-new-features-for-May-2026--VmlldzoxNzA3MzAzNA",
+      "author": "Justin Tenuto",
+      "summary": "From a brand new CoreWeave Sandboxes offering to updates in Models and to our iOS app, here's what we released in May.",
+      "imageUrl": null,
+      "publishedAt": "2026-06-01T18:26:30.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "a82b9d0f6b263517d250",
@@ -5767,6 +6439,22 @@
       "fetchedAt": "2026-07-28T03:35:15.810Z"
     },
     {
+      "id": "285cdb19c824430d18f2",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Claude Opus 4.8 Benchmark Scores",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/Claude-Opus-4-8-Benchmark-Scores--VmlldzoxNzA0NTk3MQ",
+      "author": "Brett Young",
+      "summary": "Anthropic has released Claude Opus 4.8, positioning it as an upgrade over Opus 4.7 with stronger benchmark performance across coding, reasoning, agentic workflows, and knowledge tasks",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17045971/preview.png?md5=381a8018d94af3f558aff18e87ab2726",
+      "publishedAt": "2026-05-28T20:30:52.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "6d33b54da83d2229b916",
       "sourceId": "google-ai",
       "sourceName": "Google AI Blog",
@@ -5781,6 +6469,38 @@
       "publishedAt": "2026-05-28T15:00:00.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-07-28T03:35:15.810Z"
+    },
+    {
+      "id": "c17690af47c41f115cf3",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Running agents in production with Google’s Gemini Managed Agents",
+      "url": "https://wandb.ai/byyoung3/bug-finder/reports/Running-agents-in-production-with-Google-s-Gemini-Managed-Agents--VmlldzoxNjk1NDIyMQ",
+      "author": "Brett Young",
+      "summary": "In this article, we will use the Gemini Managed Agents API to build a small bug-finder agent.",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/16954221/preview.png?md5=04682be0fc55b71d2407871f34743297",
+      "publishedAt": "2026-05-28T04:06:36.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "9b7d83452ed7748312da",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Building a text-to-SQL agent",
+      "url": "https://wandb.ai/wandb_fc/ai-builders/reports/Building-a-text-to-SQL-agent--VmlldzoxNzAyMDIwNQ",
+      "author": "Russ Ratshin",
+      "summary": "In the second edition of our AI Builders series, learn how to build a text-to-SQL agent",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17020205/preview.png?md5=81012b3647b25526663b61105dc559d3",
+      "publishedAt": "2026-05-26T21:05:28.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "a0d5acb300b6cff145be",
@@ -5812,7 +6532,55 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
       "publishedAt": "2026-05-21T19:46:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "a9dc3e89fae70fbada63",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Introducing the W&amp;B MCP Server: An agent-native interface for your experiments and traces",
+      "url": "https://wandb.ai/wandb_fc/product-announcements-fc/reports/Introducing-the-W-B-MCP-Server-An-agent-native-interface-for-your-experiments-and-traces--VmlldzoxNjk0MDE5OQ",
+      "author": "Nicolas Remerscheid",
+      "summary": "Our MCP server is generally available now. Built as primitives so the agent can do the rest.",
+      "imageUrl": null,
+      "publishedAt": "2026-05-21T16:29:06.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "ffb5099a7df18bfd2b58",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Qwen3.7-Max Benchmark Scores",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/Qwen3-7-Max-Benchmark-Scores---VmlldzoxNjk1MzA1MQ",
+      "author": "Brett Young",
+      "summary": "Alibaba’s Qwen team has introduced Qwen3.7-Max, a new frontier AI model focused heavily on coding agents, autonomous execution, and long-horizon reasoning",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/16953051/preview.png?md5=40526bb509e3643889c5c61e3c12e18f",
+      "publishedAt": "2026-05-20T18:41:28.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
+      "id": "0ea594bcca394b2abddf",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Google unveils Gemini 3.5 Flash and Omni Video System",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/Google-unveils-Gemini-3-5-Flash-and-Omni-Video-System--VmlldzoxNjk0MDU2MA",
+      "author": "Brett Young",
+      "summary": "Gemini 3.5 Flash is positioned as a high performance model balancing speed and capability",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/16940560/preview.png?md5=8349cb77b49e3122fd96da8bcebaf8cb",
+      "publishedAt": "2026-05-19T21:54:01.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "dec904f553f4da8baa4b",
@@ -5828,7 +6596,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/Xyt_1kwd_q4W4dKV0YND9MzHJF0UOGAYyZjfKEVQK0LoE2HC7i29ZnIG32Sd8RR1qj5iXEzbexg20aePXF5vLjYUB5vO_zdoqAZhKrSV4VVyce5VT1s=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-18T18:21:39.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "41afe32e07b91e6a22dd",
@@ -5844,7 +6612,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/projectgenie-social.width-1300.png",
       "publishedAt": "2026-05-17T19:53:18.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "4b19200e30c1bb153e98",
@@ -5860,7 +6628,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiOmni_social.width-1300.png",
       "publishedAt": "2026-05-17T19:50:57.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "9889f4cff48d72cf8cdf",
@@ -5876,7 +6644,7 @@
       "imageUrl": null,
       "publishedAt": "2026-05-17T19:43:45.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "07e60f1d0c076fdc85a5",
@@ -5892,7 +6660,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/science__keyword__blog-header.width-1300.jpg",
       "publishedAt": "2026-05-17T13:50:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1fb371bd372c120c8f7a",
@@ -5908,7 +6676,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO.width-1300.png",
       "publishedAt": "2026-05-17T13:43:50.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "9f801a11b728f0b67bf8",
@@ -5924,7 +6692,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/Woiv_MqlJsgv6bSWD505JCSu936VdLLtR0y7Ev1wPWDmuhFK1SYxkpyU4N2vhSpSMl22NAtbxuZ1yFMHIcDFwABNZIgRtX0ccRXxWiBaHETRXUQEZQ=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-16T09:13:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "43205b1509d2645c01aa",
@@ -5940,7 +6708,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/N1YiCxjf6dUaR3FRHJhNIw6EiWvYEIUrcRZqQJXAJK96qNIio-YlutelO-JQBcmWugKOGF4Cc5n_ugnggILDFXvfud-hTAb3qAQVED2NWcR9TW6azQ=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-16T08:16:06.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "b917ec562d20e0218d2f",
@@ -5956,7 +6724,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/B7CCW8x-V6U0PvCuF6-9V6Cm50m5gRG8SigI6yTMQYs-S7HpY_cKeGn8uLZrJom_0Wuok-iltNFic4I8Eel7riB7Dytm2k1_pytxTtvk-vrEIxw9pg=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-16T08:08:44.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "5c1638d5e957053577b1",
@@ -5972,7 +6740,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/BviYtfKhFkYTOW9MCZSU9GB3fFLNEupgc1ZynnxKJDiZqNVBaCN-1vtpF1H5e9vXubypNvruDDTrEMwuUEEHPiO4DeohPfocpIXVR7hdcolcP5WX3K4=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-16T08:00:15.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "65a18be864850d6e0d5a",
@@ -5988,7 +6756,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/fR4KAfFp4Ns7W90QSrwVipuPprhWP4kEnH-hYbP07bEryUBVGjCAm4yEgo6MRBZAhf6Hp6TTzA-z9EKXm7doG9A-hHTbL1IVeIcjtVg_8cI06LYf=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-16T07:53:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "928f27119f8b6ec9d654",
@@ -6004,7 +6772,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/WjgQH7IbetdRNwoNAOp7_2JAoHaEckFl7ph9ffhCEtEiGWqzonO9MtqdjOl3n_ZEIAb3uVQ3z-Hq3whlg3ob9lcx6vDOF5lb3MyTE1rIoAeX6peAhOM=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-16T07:40:27.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2d39ed6199cdb0a25a5c",
@@ -6020,7 +6788,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/iLgzjfK9faS-SQePs9fq0zjKGOVGpcyS0J0wQ3SS7llJjJhzz214LUtuy82bJIjweaMRiRWcLMDhPxdP1Z2VitCvWEQyMpY8xLFekP2RG255e2td=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-05-16T03:14:17.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "1c41478548c02b85d662",
@@ -6036,23 +6804,23 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
       "publishedAt": "2026-05-15T22:50:12.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
-      "id": "5c4b2dcf375926bac84e",
-      "sourceId": "deepmind",
-      "sourceName": "DeepMind Blog",
-      "category": "公司研究",
-      "sourceColor": "#6C5CE7",
-      "sourceColorAlt": "#00C2FF",
-      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research",
-      "author": "",
-      "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
-      "imageUrl": "https://lh3.googleusercontent.com/8kFWTjhROuwZK6kVFk-ol13YlKLABvppqzVl9LIhYyY3NP4Z8Y0i2ubSuVIfgmknluXTgYmTMAzRR21CxJPbgSK5m37ARzv26S8TPX5QhNWG6wq11Q=w528-h297-n-nu-rw-lo",
-      "publishedAt": "2026-05-12T14:40:07.000Z",
+      "id": "5261480485a65831fb87",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "xAI has launched Grok Build: A new competitor to Claude Code?",
+      "url": "https://wandb.ai/byyoung3/ml-news/reports/xAI-has-launched-Grok-Build-A-new-competitor-to-Claude-Code---VmlldzoxNjg4Mzg4MA",
+      "author": "Brett Young",
+      "summary": "xAI has launched Grok Build, a new terminal-based coding agent designed for professional software engineering workflows",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/16883880/preview.png?md5=f7aa12153771ad18ad25c381645c7712",
+      "publishedAt": "2026-05-14T20:01:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-06T03:36:37.820Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f36a6c138e98b54bd6fc",
@@ -6087,6 +6855,22 @@
       "fetchedAt": "2026-07-26T03:55:10.687Z"
     },
     {
+      "id": "e2543513709fa4a66e99",
+      "sourceId": "meituan-tech",
+      "sourceName": "美团技术团队",
+      "category": "中文技术",
+      "sourceColor": "#FFD100",
+      "sourceColorAlt": "#FF8A00",
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+      "author": "",
+      "summary": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+      "imageUrl": "https://p0.meituan.net/meituantechblog/5a8954c2e7b681ee8fb8d2c8a73868cd157865.png",
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
+    },
+    {
       "id": "d082008ac18f9fe17020",
       "sourceId": "meituan-tech",
       "sourceName": "美团技术团队",
@@ -6100,7 +6884,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/53ce71427cc5fb26c883af36a738b10569202.webp",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2496f1ce5b3e81b20701",
@@ -6116,7 +6900,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/ecfdc52ee4ab7253a877d5df75217f21127484.webp",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "2563b6f11e67737b1d9f",
@@ -6132,7 +6916,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/69e86f1a417ef555aed62d74c1152c53108351.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "e702c2fd370700a9e617",
@@ -6164,7 +6948,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/368b1cd0634db5c41b127242d8feee08118728.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "6607d0196d4eb89c3824",
@@ -6180,7 +6964,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/f434c8979e7670cd0402c7719141eb91178306.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "fc585638e234319debf9",
@@ -6196,7 +6980,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/ef19600fdb0e6868a3574c4a8c7ff746220482.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "04da721291419ea0aa9c",
@@ -6212,7 +6996,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/b59c0ffafdeba4539136582e0271b740362659.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "f9ae4b08fd10b1629fb0",
@@ -6228,7 +7012,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/a690ba49597fd8720f96ea56573b54cc151290.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     },
     {
       "id": "420e4ecb26e1294101e8",
@@ -6260,7 +7044,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/3415508a98cf053008ffb59af0ed592a421327.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
+      "fetchedAt": "2026-08-11T02:27:42.868Z"
     }
   ]
 }
