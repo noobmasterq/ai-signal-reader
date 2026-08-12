@@ -10,9 +10,9 @@
     "colorAlt": "#5AC8FA",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 1298,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 1519,
     "error": null
   },
   {
@@ -27,8 +27,8 @@
     "status": "error",
     "itemCount": 0,
     "lastSuccessAt": null,
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 149630,
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 149605,
     "error": "fetch failed"
   },
   {
@@ -42,9 +42,9 @@
     "colorAlt": "#FF8A65",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 4017,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 3403,
     "error": null
   },
   {
@@ -59,8 +59,8 @@
     "status": "error",
     "itemCount": 0,
     "lastSuccessAt": null,
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 18482,
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 16071,
     "error": "未发现可解析的 RSS/Atom（尝试 9 个地址）"
   },
   {
@@ -74,9 +74,9 @@
     "colorAlt": "#34A853",
     "status": "ok",
     "itemCount": 20,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 336,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 539,
     "error": null
   },
   {
@@ -90,9 +90,9 @@
     "colorAlt": "#6EE7C4",
     "status": "ok",
     "itemCount": 35,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 175,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 208,
     "error": null
   },
   {
@@ -106,8 +106,8 @@
     "colorAlt": "#00C2FF",
     "status": "ok",
     "itemCount": 35,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
     "durationMs": 292,
     "error": null
   },
@@ -122,9 +122,9 @@
     "colorAlt": "#FF8A00",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 5868,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 3939,
     "error": null
   },
   {
@@ -139,8 +139,8 @@
     "status": "error",
     "itemCount": 0,
     "lastSuccessAt": null,
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 5874,
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 5945,
     "error": "HTTP 403"
   },
   {
@@ -154,9 +154,9 @@
     "colorAlt": "#61DDAA",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 2859,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 11303,
     "error": null
   },
   {
@@ -170,9 +170,9 @@
     "colorAlt": "#C084FC",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 192,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 175,
     "error": null
   },
   {
@@ -186,9 +186,9 @@
     "colorAlt": "#FACC15",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 177,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 90,
     "error": null
   },
   {
@@ -202,9 +202,9 @@
     "colorAlt": "#FB7185",
     "status": "ok",
     "itemCount": 18,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 8675,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 9053,
     "error": null
   },
   {
@@ -218,9 +218,9 @@
     "colorAlt": "#6B7280",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 245,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 192,
     "error": null
   },
   {
@@ -234,9 +234,9 @@
     "colorAlt": "#67E8F9",
     "status": "ok",
     "itemCount": 15,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 994,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 735,
     "error": null
   },
   {
@@ -250,9 +250,9 @@
     "colorAlt": "#93C5FD",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 181,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 120,
     "error": null
   },
   {
@@ -266,9 +266,9 @@
     "colorAlt": "#FBBF24",
     "status": "ok",
     "itemCount": 35,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 114,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 140,
     "error": null
   },
   {
@@ -282,9 +282,9 @@
     "colorAlt": "#FDB515",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 314,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 343,
     "error": null
   },
   {
@@ -298,9 +298,9 @@
     "colorAlt": "#F0ABFC",
     "status": "ok",
     "itemCount": 6,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 118,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 70,
     "error": null
   },
   {
@@ -314,9 +314,9 @@
     "colorAlt": "#FCA5A5",
     "status": "ok",
     "itemCount": 15,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 479,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 272,
     "error": null
   },
   {
@@ -330,9 +330,9 @@
     "colorAlt": "#BEF264",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 316,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 191,
     "error": null
   },
   {
@@ -346,9 +346,9 @@
     "colorAlt": "#5EEAD4",
     "status": "ok",
     "itemCount": 15,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 1188,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 799,
     "error": null
   },
   {
@@ -362,9 +362,9 @@
     "colorAlt": "#D8B4FE",
     "status": "ok",
     "itemCount": 20,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 105,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 113,
     "error": null
   },
   {
@@ -378,9 +378,9 @@
     "colorAlt": "#F9A8D4",
     "status": "ok",
     "itemCount": 35,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 80,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 52,
     "error": null
   },
   {
@@ -394,9 +394,9 @@
     "colorAlt": "#B7E34A",
     "status": "ok",
     "itemCount": 18,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 359,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 637,
     "error": null
   },
   {
@@ -410,9 +410,9 @@
     "colorAlt": "#99F6E4",
     "status": "ok",
     "itemCount": 25,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 358,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 289,
     "error": null
   },
   {
@@ -427,8 +427,8 @@
     "status": "error",
     "itemCount": 0,
     "lastSuccessAt": null,
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 1653,
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 12703,
     "error": "未发现可解析的 RSS/Atom（尝试 5 个地址）"
   },
   {
@@ -442,9 +442,9 @@
     "colorAlt": "#A5B4FC",
     "status": "ok",
     "itemCount": 6,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 224,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 139,
     "error": null
   },
   {
@@ -458,9 +458,9 @@
     "colorAlt": "#7DD3FC",
     "status": "ok",
     "itemCount": 35,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 754,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 618,
     "error": null
   },
   {
@@ -474,9 +474,9 @@
     "colorAlt": "#FDBA74",
     "status": "ok",
     "itemCount": 20,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 171,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 205,
     "error": null
   },
   {
@@ -490,9 +490,9 @@
     "colorAlt": "#C7D2FE",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 318,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 237,
     "error": null
   },
   {
@@ -506,9 +506,9 @@
     "colorAlt": "#E879F9",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 955,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 934,
     "error": null
   },
   {
@@ -522,9 +522,9 @@
     "colorAlt": "#F87171",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 570,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 492,
     "error": null
   },
   {
@@ -536,12 +536,12 @@
     "category": "视频",
     "color": "#FF0000",
     "colorAlt": "#FF6B6B",
-    "status": "stale",
-    "itemCount": 0,
-    "lastSuccessAt": "2026-08-10T02:34:17.619Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 4833,
-    "error": "未发现可解析的 RSS/Atom（尝试 10 个地址）"
+    "status": "ok",
+    "itemCount": 15,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 508,
+    "error": null
   },
   {
     "sourceId": "offconvex",
@@ -554,9 +554,9 @@
     "colorAlt": "#5EEAD4",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 452,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 223,
     "error": null
   },
   {
@@ -570,9 +570,9 @@
     "colorAlt": "#FFD343",
     "status": "ok",
     "itemCount": 10,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 246,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 230,
     "error": null
   },
   {
@@ -586,9 +586,9 @@
     "colorAlt": "#FF8A00",
     "status": "ok",
     "itemCount": 35,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 129,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 254,
     "error": null
   },
   {
@@ -602,9 +602,9 @@
     "colorAlt": "#8BD9DD",
     "status": "ok",
     "itemCount": 35,
-    "lastSuccessAt": "2026-08-11T02:27:42.868Z",
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 437,
+    "lastSuccessAt": "2026-08-12T02:44:05.721Z",
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 269,
     "error": null
   },
   {
@@ -619,8 +619,8 @@
     "status": "error",
     "itemCount": 0,
     "lastSuccessAt": null,
-    "checkedAt": "2026-08-11T02:27:42.868Z",
-    "durationMs": 6862,
+    "checkedAt": "2026-08-12T02:44:05.721Z",
+    "durationMs": 6098,
     "error": "HTTP 404"
   }
 ]
