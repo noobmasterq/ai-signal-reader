@@ -1,11 +1,155 @@
 {
-  "generatedAt": "2026-08-27T09:48:38.777Z",
+  "generatedAt": "2026-08-28T11:23:23.203Z",
   "timezone": "Asia/Hong_Kong",
-  "totalArticles": 532,
+  "totalArticles": 541,
   "sourcesConfigured": 39,
   "sourcesOk": 33,
   "sourceErrors": 6,
   "articles": [
+    {
+      "id": "41f4092430f5cac87805",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "author": "",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-28T02:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "497a2aed44239464697e",
+      "sourceId": "wandb",
+      "sourceName": "Weights & Biases",
+      "category": "框架与工具",
+      "sourceColor": "#FFBE00",
+      "sourceColorAlt": "#8BD9DD",
+      "title": "Nvidia reportedly agrees to purchase Hugging Face for $13B",
+      "url": "https://wandb.ai/wandb_fc/mlnews/reports/Nvidia-reportedly-agrees-to-purchase-Hugging-Face-for-13B---VmlldzoxNzgxODg4Mw",
+      "author": "Brett Young",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17818883/preview.png?md5=7d799f6ef8a731a2d98721e2171ddff5",
+      "publishedAt": "2026-08-27T17:57:48.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "8f2b1eb6463128253778",
+      "sourceId": "microsoft-ai",
+      "sourceName": "微软AI",
+      "category": "公司研究",
+      "sourceColor": "#0A84FF",
+      "sourceColorAlt": "#5AC8FA",
+      "title": "Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines",
+      "url": "https://news.microsoft.com/source/asia/2026/08/27/deped-and-microsoft-partner-to-advance-philippine-education-in-the-ai-era-equip-1m-teachers-with-microsoft-copilot",
+      "author": "sbaynes",
+      "summary": "The post Microsoft and DepEd partner to bring AI tools to 1 million teachers across the Philippines appeared first on Source.",
+      "imageUrl": "https://news.microsoft.com/source/asia/wp-content/uploads/2026/08/220130_4B_MS_Reimagine_-PreparingStudents_CE_Audio-16_ProResMASTER.00_00_34_11.Still001.jpg",
+      "publishedAt": "2026-08-27T17:33:41.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "343ed17c93368912fe71",
+      "sourceId": "deepmind",
+      "sourceName": "DeepMind Blog",
+      "category": "公司研究",
+      "sourceColor": "#6C5CE7",
+      "sourceColorAlt": "#00C2FF",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png",
+      "publishedAt": "2026-08-27T16:11:32.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "756fd4e96be98c90cf72",
+      "sourceId": "google-ai",
+      "sourceName": "Google AI Blog",
+      "category": "公司研究",
+      "sourceColor": "#4285F4",
+      "sourceColorAlt": "#34A853",
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+      "author": "",
+      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "132ce0dd0a131864372b",
+      "sourceId": "nvidia",
+      "sourceName": "NVIDIA Blog",
+      "category": "公司研究",
+      "sourceColor": "#76B900",
+      "sourceColorAlt": "#B7E34A",
+      "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026",
+      "author": "GeForce NOW Community",
+      "summary": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser […]",
+      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-27-nv-blog-1280x680-logo.jpg",
+      "publishedAt": "2026-08-27T13:00:33.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "187652eac14b8005ee3b",
+      "sourceId": "nvidia",
+      "sourceName": "NVIDIA Blog",
+      "category": "公司研究",
+      "sourceColor": "#76B900",
+      "sourceColorAlt": "#B7E34A",
+      "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery",
+      "author": "Ian Finder",
+      "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
+      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/05/vera-key-visual-1920x1080-1.jpg",
+      "publishedAt": "2026-08-27T13:00:17.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "fdb591b0615fd83783eb",
+      "sourceId": "deepmind",
+      "sourceName": "DeepMind Blog",
+      "category": "公司研究",
+      "sourceColor": "#6C5CE7",
+      "sourceColorAlt": "#00C2FF",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+      "author": "",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "imageUrl": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo",
+      "publishedAt": "2026-08-27T12:59:16.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "57a157d7fadb33e58717",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "author": "",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-27T09:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
     {
       "id": "c00069b2b3abe10423a2",
       "sourceId": "lei-mao",
@@ -20,7 +164,39 @@
       "imageUrl": null,
       "publishedAt": "2026-08-27T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "9d2d408f426bde7c208d",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "author": "",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-27T03:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "0787c9c5506208f53d0e",
+      "sourceId": "microsoft-ai",
+      "sourceName": "微软AI",
+      "category": "公司研究",
+      "sourceColor": "#0A84FF",
+      "sourceColorAlt": "#5AC8FA",
+      "title": "Microsoft and HUMAIN collaborate to accelerate AI adoption in Saudi Arabia and beyond",
+      "url": "https://news.microsoft.com/source/emea/2026/08/microsoft-and-humain-announce-long-term-strategic-collaboration-to-enable-ai-transformation-in-saudi-arabia-and-beyond-2",
+      "author": "sbaynes",
+      "summary": "The post Microsoft and HUMAIN collaborate to accelerate AI adoption in Saudi Arabia and beyond appeared first on Source.",
+      "imageUrl": null,
+      "publishedAt": "2026-08-26T23:04:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "74b04cefdea5ac0d1d57",
@@ -36,23 +212,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-corp-blog-nvhbm-1280x680-5547600.jpg",
       "publishedAt": "2026-08-26T21:05:30.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "5426adc1350231582eb5",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv",
-      "url": "https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update",
-      "author": "PyTorch Foundation",
-      "summary": "The PyTorch Ecosystem Working Group is happy to welcome 10 new projects to the PyTorch Ecosystem Landscape including Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv. The...",
-      "imageUrl": null,
-      "publishedAt": "2026-08-26T20:53:37.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "eb3dd82b0ef9653346e6",
@@ -68,7 +228,7 @@
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/PRESERVATION_GEARS-16x9-1-f50ea7c7183d739eee78-1024x576.png",
       "publishedAt": "2026-08-26T17:39:21.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6f7fa13052f173351d90",
@@ -84,7 +244,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
       "publishedAt": "2026-08-26T17:01:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "927dbd3af37d201fc442",
@@ -100,7 +260,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-26T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "61922c5195b532ce702d",
@@ -116,7 +276,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-26T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "4292d4e78099eab275f4",
@@ -132,7 +292,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-26T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e54187ee5d16fe8a465f",
@@ -148,7 +308,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6b94fa02093aff1ce985",
@@ -164,7 +324,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e2930fcf89822cb2da63",
@@ -180,7 +340,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ead19986f61b6d4713d3",
@@ -196,7 +356,7 @@
       "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/image-1.jpg",
       "publishedAt": "2026-08-25T23:52:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "70aa715ee150c0ae8de7",
@@ -212,7 +372,7 @@
       "imageUrl": "https://blogs.windows.com/wp-content/uploads/sites/3/2026/08/Hero-Illustration-scaled.png",
       "publishedAt": "2026-08-25T18:33:28.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "43ef9a4fb83e39dc535f",
@@ -228,7 +388,7 @@
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/XBOX_25_Accessories_HERO_JPG-3259a897b1e6c87237f2-scaled.jpg",
       "publishedAt": "2026-08-25T17:59:57.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c92d6241615ef6a2f563",
@@ -244,7 +404,7 @@
       "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/08/At-at-Work-Roadmap_1_1200.jpg",
       "publishedAt": "2026-08-25T16:46:21.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "993ec935948cb1d8a065",
@@ -260,7 +420,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-25T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "666b33f2aa981ae3a743",
@@ -276,7 +436,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
       "publishedAt": "2026-08-25T15:30:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b31e4e4d8256298a14e5",
@@ -292,7 +452,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-25T15:14:14.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e9f3adcf38581d16ff40",
@@ -308,7 +468,7 @@
       "imageUrl": "https://sourcecanada.thesourcemediaassets.com/2026/08/partnership_1920x1080_ENG-copy-scaled.jpg",
       "publishedAt": "2026-08-25T14:41:52.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "9c4a6f38f989661a893b",
@@ -324,7 +484,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-25T11:39:24.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0d195481e0f98dd8421b",
@@ -340,7 +500,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-25T07:05:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "fe440f8567e6b463fc8b",
@@ -356,7 +516,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-25T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d03054c7fed1f196ab01",
@@ -372,7 +532,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6a0e6357918ce5c1ce50",
@@ -388,7 +548,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "56d0de2e84403c96d8fb",
@@ -404,7 +564,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-25T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5bb37d274a614eff7c6e",
@@ -420,7 +580,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nvidia-dsx-maxlps-fg-i4of6-d-scaled.jpg",
       "publishedAt": "2026-08-24T15:00:54.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3b82bb3fc95385066087",
@@ -433,10 +593,10 @@
       "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion",
       "author": "NVIDIA Writers",
       "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq […]",
-      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-scaled.png",
+      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/HotChips_DionHarris_v5_28MB.mp4",
       "publishedAt": "2026-08-24T15:00:41.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ca6ff5110875f3ecf677",
@@ -452,7 +612,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg",
       "publishedAt": "2026-08-24T15:00:19.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c5679e780823d6e03b48",
@@ -468,7 +628,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-24T12:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c53dd2e2e4759f453a6b",
@@ -484,7 +644,7 @@
       "imageUrl": "https://sander.ai/%7B%22feature%22=%3E%22verin.jpg%22%7D",
       "publishedAt": "2026-08-23T23:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7ed6ce739ddc46e74ffd",
@@ -500,7 +660,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-23T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "bcad2161caeeb96ca315",
@@ -516,7 +676,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-23T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d5fc7cb9fb9b666104ae",
@@ -532,7 +692,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-08-22T22:35:20.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f7b7381b950ab2ea18bd",
@@ -548,7 +708,7 @@
       "imageUrl": "https://media.licdn.com/dms/image/v2/D5622AQH-QwLd19FsrQ/feedshare-shrink_1280/B56aAmc9M0GUAQ-/0/1787351520295?e=2147483647&v=beta&t=Yztpy50xZqVYonMiUTz1FNCufCO2WShTPwjEq2v8bD0",
       "publishedAt": "2026-08-22T17:10:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e17583c3b96db3fddd4a",
@@ -564,7 +724,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-22T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "29c3709ec0cd8e53a50c",
@@ -580,7 +740,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-22T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "91da4e75b00b0c147baf",
@@ -596,7 +756,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-22T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "2aaf7f23cc43078c2cd8",
@@ -612,7 +772,7 @@
       "imageUrl": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/08/Windows-365-turns-5-hero.png",
       "publishedAt": "2026-08-21T16:37:09.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f1b3712fc4a61c1cd602",
@@ -628,7 +788,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-08-21T11:59:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c698890afc3f71c06156",
@@ -644,7 +804,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5e987ce3d38f6fb39ce3",
@@ -660,23 +820,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-21T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "1f1f041c093f067ad50b",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "PyTorch Conference North America 2026 Keynote Speaker Sessions Announced",
-      "url": "https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced",
-      "author": "PyTorch Foundation",
-      "summary": "The keynote lineup is set for PyTorch Conference North America 2026, taking place October 20–21 in San Jose, California. The program includes sessions on PyTorch updates, native PyTorch on Trainium,...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2025/12/PyTorch-Conference-North-America-2026.png",
-      "publishedAt": "2026-08-20T20:56:13.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "55fe11bf8790b013f581",
@@ -692,7 +836,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-20T16:52:57.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5e05c0d0871c84cd9d50",
@@ -707,22 +851,6 @@
       "summary": "The post Frost &amp; Sullivan names Microsoft a visionary leader in cloud workload protection platforms appeared first on Source.",
       "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Security-ImageryScan-Device-Yellow-03-2026-scaled.jpg",
       "publishedAt": "2026-08-20T16:52:43.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "630d37dbf5d7022fe8de",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Harnessing AI for Day-One Model Enablement",
-      "url": "https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement",
-      "author": "IBM Spyre Team",
-      "summary": "TL;DR The AI model landscape never stops moving, and the software stack that runs those models is always a step behind: even on a mature compilation stack, a new model...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/08/model-landscape-timeline-1024x715.png",
-      "publishedAt": "2026-08-20T15:45:59.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-08-27T09:48:38.777Z"
     },
@@ -756,7 +884,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg",
       "publishedAt": "2026-08-20T13:00:24.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "97ef9189cd867c9d213b",
@@ -772,7 +900,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "acd24b3dbc9c19c3d137",
@@ -788,7 +916,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6c8bf17b332293b476ef",
@@ -804,7 +932,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5b0cdc17ce5169aa60e6",
@@ -820,7 +948,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-20T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "bad774919d737199724f",
@@ -852,7 +980,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-19T19:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "37f4c4983a3caab7f508",
@@ -868,7 +996,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-19T19:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d7fe488a0f2aa83249e4",
@@ -916,7 +1044,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "16ae7608de065b7fe85f",
@@ -932,7 +1060,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7328b20a2c3af0ef8899",
@@ -948,7 +1076,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T22:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b3e1d6a04c50b13ba682",
@@ -964,7 +1092,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T19:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d1e7d2dfc3516e1bafbd",
@@ -980,7 +1108,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T18:09:38.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "27d9366358fe48c39f53",
@@ -1012,7 +1140,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0d0a05578b840d3bca64",
@@ -1028,7 +1156,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "15f010379494819b8676",
@@ -1044,7 +1172,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6999b53471ad602d9170",
@@ -1060,7 +1188,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "cfeb567f49850e491d72",
@@ -1076,7 +1204,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ed36037f58e7aaa9d5b1",
@@ -1092,7 +1220,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-18T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f546cae7a596e0f29922",
@@ -1108,7 +1236,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-17T19:46:21.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3f0f7b53d9e92208f05d",
@@ -1124,7 +1252,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
       "publishedAt": "2026-08-17T12:34:51.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "288286ac002e776e7949",
@@ -1140,7 +1268,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-17T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c0c9aecd06056e933251",
@@ -1156,7 +1284,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-17T05:30:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ce9671a742cdb73930c6",
@@ -1172,7 +1300,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-17T05:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "99b603e73560dadf4d0e",
@@ -1188,7 +1316,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-17T03:15:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "a6cb3b5543d29f9edc81",
@@ -1204,7 +1332,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-15T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c56d8f1d5e945e25ed58",
@@ -1220,7 +1348,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-15T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b8ff2bb0b9fc1d76d0ba",
@@ -1236,7 +1364,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-15T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c63da3410b7ab2c7a5dd",
@@ -1252,7 +1380,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-15T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "42663404ab5d413b4ad7",
@@ -1268,7 +1396,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-08-15T01:09:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c06cf45c09fad898d715",
@@ -1284,7 +1412,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1.png",
       "publishedAt": "2026-08-14T17:13:05.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0da319caf4d53b4489e2",
@@ -1300,7 +1428,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-14T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "fe6527483343e4272ece",
@@ -1316,7 +1444,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-14T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "cec7243a1797014951e1",
@@ -1332,7 +1460,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-13T18:20:04.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "bbea2ff8f12ee0451981",
@@ -1348,7 +1476,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-13T17:16:04.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c23d806680e75b74480f",
@@ -1364,7 +1492,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
       "publishedAt": "2026-08-13T17:04:18.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "4763b8d7281f519842ba",
@@ -1396,23 +1524,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-13T16:45:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "674dbea441175ac1692d",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements",
-      "url": "https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements",
-      "author": "AMD: Rishi Sinha, Yuankai Chen, Liz Li, Shekhar Pandey, Wen Chen, Xiaobo Chen, Yao Fu, Zhenyu Gu, A…",
-      "summary": "At the PyTorch Conference 2025, we demonstrated linear scaling beyond 1,000 GPUs on AMD Instinct clusters using Primus-Turbo, an AMD optimization library for training frameworks such as TorchTitan. We have since upstreamed those AMD optimizations so TorchTitan supports AMD Instinct(™) GPUs directly, with competitive FP8 performance out of the box. All contributions mentioned have been merged into upstream pytorch/AO…",
-      "imageUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
-      "publishedAt": "2026-08-13T16:00:31.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0123822d3756f6a2b399",
@@ -1428,7 +1540,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-13-blog-1920x1080-logo.jpg",
       "publishedAt": "2026-08-13T13:00:33.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "477493d754aa8a035402",
@@ -1444,7 +1556,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-13T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3a999f32793cc4935aec",
@@ -1460,7 +1572,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-13T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "95f86f325fd964d0b69b",
@@ -1476,7 +1588,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-13T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "514fb378d92e3a3ad42f",
@@ -1492,7 +1604,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-13T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "4ad20fb499ae309f6710",
@@ -1508,7 +1620,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-13T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "72927b3a00296fee4a29",
@@ -1540,7 +1652,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-12T16:14:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f43397b573fe8aba6b68",
@@ -1556,7 +1668,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-08-12T14:01:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "12458e3a461a7f35b0a3",
@@ -1588,7 +1700,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GlassdoorBestCEOs2026_16x9.png",
       "publishedAt": "2026-08-12T14:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5c30d0869af6381309fe",
@@ -1604,7 +1716,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-12T06:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f951f08478da03c2d3b1",
@@ -1620,7 +1732,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/jhh-support-blog-visual-logo-lock-up-3x4-1.png",
       "publishedAt": "2026-08-12T00:38:21.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "2e7b3851290485fe0319",
@@ -1636,7 +1748,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-12T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "321948f28809854195a2",
@@ -1652,7 +1764,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-11T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e105021677d38b2d19ab",
@@ -1668,7 +1780,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg",
       "publishedAt": "2026-08-11T15:00:06.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "62129d16af5a661eda48",
@@ -1700,7 +1812,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-11T13:37:10.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "241265e994a691b73f8e",
@@ -1732,7 +1844,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg",
       "publishedAt": "2026-08-11T13:00:25.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "437fdb54307dee7b895e",
@@ -1748,7 +1860,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
       "publishedAt": "2026-08-11T13:00:05.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "cfa1f5ad8fbf5f699e63",
@@ -1764,7 +1876,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-11T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c8ada097841e7dee24d7",
@@ -1780,7 +1892,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-11T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "96ce9e99d4f72a42238e",
@@ -1828,7 +1940,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-10T16:25:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "af2e72493fc17a1914a8",
@@ -1844,7 +1956,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-10T15:10:46.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "8f61d69b2cdb63e4105a",
@@ -1876,7 +1988,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-10T14:30:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ad3c7d29cad131351b45",
@@ -1892,23 +2004,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-10T14:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "87a6f3218bdb2f217283",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch",
-      "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch",
-      "author": "ExecuTorch Team at Meta",
-      "summary": "Today, Meta introduced Muse Glimmer, an open-weight, 30-billion-parameter model distilled from Meta’s Muse Spark for on-device agentic workflows. Alongside, ExecuTorch is adding end-to-end support for running Muse Glimmer on NVIDIA...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/08/Muse-Glimmer-text-image-input-experiment-on-M5-Pro.gif",
-      "publishedAt": "2026-08-10T13:42:54.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "fb7259b2f0f7a26bea1f",
@@ -1940,7 +2036,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-10T10:05:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "2b0ee96a59e04805d265",
@@ -1988,7 +2084,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-10T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7f62331cb868e083a02c",
@@ -2052,7 +2148,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg",
       "publishedAt": "2026-08-08T10:24:54.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "8691964f84f2d1ca70f5",
@@ -2068,7 +2164,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-08T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "34f2e53c4b0872cf043a",
@@ -2084,7 +2180,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-08T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "df79abe0a67dcc4e688d",
@@ -2180,7 +2276,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-07T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b5602b80538f6ac586a0",
@@ -2199,38 +2295,6 @@
       "fetchedAt": "2026-08-19T01:53:04.975Z"
     },
     {
-      "id": "2af47a9fbec6fce933f3",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "PyTorch Conference North America Announces 2026 Keynotes",
-      "url": "https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes",
-      "author": "PyTorch Foundation",
-      "summary": "PyTorch Conference North America will be held in San Jose, California, on October 20–21, 2026. Featured PyTorchCon NA 2026 keynote speakers include: Mark Collier, Executive Director, PyTorch Foundation Mazin Gilbert,...",
-      "imageUrl": null,
-      "publishedAt": "2026-08-06T18:37:47.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "eff8a0266f98a5b412a8",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup",
-      "url": "https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup",
-      "author": "Steve Pousty, Red Hat",
-      "summary": "TL;DR The inaugural Santa Cruz PyTorch Meetup brought together 45 local engineers, students, and leaders for GPU/CUDA talks and lightning presentations on chemistry, plant health, and autonomous driving – demonstrating...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/08/All-PyTorch-Blog-Social-Images-18.png",
-      "publishedAt": "2026-08-06T15:50:43.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
       "id": "f89a902dc046e84bbc0b",
       "sourceId": "deepmind",
       "sourceName": "DeepMind Blog",
@@ -2244,7 +2308,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-08-06T15:06:15.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f457f29b4297d324b259",
@@ -2260,7 +2324,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-6-nv-blog-1280x680-logo.jpg",
       "publishedAt": "2026-08-06T13:00:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3fb2f651a0722252954d",
@@ -2324,7 +2388,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "006773d435a5d2acbb0c",
@@ -2356,7 +2420,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6c17a2cb91abea324a1e",
@@ -2388,7 +2452,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17668696/preview.png?md5=1aa7a1c81138161cac5775ff55689612",
       "publishedAt": "2026-08-05T22:31:27.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "da917a09ed4186bf74b4",
@@ -2596,7 +2660,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-04T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0f50e76b44990820e72b",
@@ -2692,7 +2756,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-08-03T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0aa920909127ef2f629d",
@@ -2756,7 +2820,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-02T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "9aeb3166194916cc4984",
@@ -2772,7 +2836,7 @@
       "imageUrl": null,
       "publishedAt": "2026-08-01T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "52f6b90abe02ed52fc9e",
@@ -2916,7 +2980,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "1cf5cf4f3d80bda7e97b",
@@ -2999,22 +3063,6 @@
       "fetchedAt": "2026-08-05T03:32:21.686Z"
     },
     {
-      "id": "f807eaeb725742120c95",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities",
-      "url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities",
-      "author": "Meta Triton Team: Daohang Shi, Xu Zhao, Agron Tsai, Wenyuan Chi, Alexey Loginov",
-      "summary": "TL:DR Learn how Meta’s FBTriton infrastructure powers custom GPU compiler innovations like TLX and autoWS while staying synced with upstream Triton using agentic ingestion and a stratified L1/L2/L3 validation framework....",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/All-PyTorch-Blog-Social-Images-17.png",
-      "publishedAt": "2026-07-30T15:26:48.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
       "id": "11b261ab2e38dd83b84d",
       "sourceId": "huggingface",
       "sourceName": "Hugging Face",
@@ -3028,7 +3076,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-30T15:09:09.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b4bf14ecc554b582287b",
@@ -3044,7 +3092,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.width-1300.png",
       "publishedAt": "2026-07-30T15:00:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3ba918b78590cf8de569",
@@ -3108,7 +3156,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-30T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "2cffc1ab49d1e8e45e64",
@@ -3220,7 +3268,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-1440x810.png",
       "publishedAt": "2026-07-29T16:02:10.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7963db88bea3843bb34c",
@@ -3252,7 +3300,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-ollama-lm-studio-llama-cpp-comparison-feature-scaled.jpg",
       "publishedAt": "2026-07-29T12:00:13.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c82841266305c56928cd",
@@ -3300,7 +3348,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-29T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6e25e0031b749896bd2a",
@@ -3319,22 +3367,6 @@
       "fetchedAt": "2026-08-17T01:55:07.942Z"
     },
     {
-      "id": "e13f6339113008d70c02",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "PyTorch Foundation Flare Pin Community Design Contest",
-      "url": "https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest",
-      "author": "PyTorch Foundation",
-      "summary": "We invite you to design the 2026 PyTorch Foundation flare pin for PyTorch Conference North America. The winning entrant will receive one complimentary ticket to PyTorch Conference North America in...",
-      "imageUrl": null,
-      "publishedAt": "2026-07-28T18:13:05.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
       "id": "803e05aa661399516477",
       "sourceId": "wandb",
       "sourceName": "Weights & Biases",
@@ -3348,7 +3380,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-28T17:40:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "359c627c69e2694f1ab4",
@@ -3412,7 +3444,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-28T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "71a7fae3d4ef9e6e4505",
@@ -3460,7 +3492,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-28T13:21:37.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7cb3c950f4e77c139476",
@@ -3476,7 +3508,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-28T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b04716b6cc2533a6995c",
@@ -3492,7 +3524,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-28T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "a23743d3e971111fb484",
@@ -3572,7 +3604,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-5-architectural-patterns-persistent-memory-state-ai-agents-feature.png",
       "publishedAt": "2026-07-27T12:00:46.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e936bf27202b3dc3c6e5",
@@ -3588,7 +3620,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-27T09:32:20.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "9ac7438329910851205c",
@@ -3652,7 +3684,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-27T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "8a4e6f97cc6b717bfe37",
@@ -3684,7 +3716,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-26T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "744d94af131aa617e0a0",
@@ -3700,7 +3732,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-26T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e24b5673adb947811ff8",
@@ -3716,7 +3748,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-25T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "fa1df96cc68c3e3b6e4b",
@@ -3732,7 +3764,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-25T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "44b6c9d689f1ed22f382",
@@ -3780,7 +3812,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems-feature.png",
       "publishedAt": "2026-07-24T12:44:38.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ebac4941f2b6332d5893",
@@ -3812,7 +3844,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-07-23T21:06:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "30a618a96403d86967b2",
@@ -3845,22 +3877,6 @@
       "publishedAt": "2026-07-23T18:56:22.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-07-29T03:39:22.169Z"
-    },
-    {
-      "id": "dd18af66c98eef37ba21",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring",
-      "url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring",
-      "author": "Dunfan Lu, Yifei Xu, Jongsok Choi, Ethan Che, Oguz Ulgen, Jason Ansel, Yarong Mu, Theotime Combes,…",
-      "summary": "TL;DR Helion is PyTorch’s high-level DSL for writing performance-portable ML kernels. Partnering with Google, we have built a TPU backend that compiles Helion kernels to Pallas, providing a PyTorch-friendly way...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/All-PyTorch-Blog-Social-Images-16.png",
-      "publishedAt": "2026-07-23T17:22:16.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
     },
     {
       "id": "cb5660194dd4e2fb730c",
@@ -3940,7 +3956,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/MLM-Shittu-An-Introduction-to-Loop-Engineering-scaled-1.png",
       "publishedAt": "2026-07-23T12:00:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f3250d2073469a19b8e1",
@@ -3972,7 +3988,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "46d7134bf4a05affdb96",
@@ -4020,7 +4036,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb-smle/images/views/17187070/preview.png?md5=49eaa2bcec5836e68470b740067c76d4",
       "publishedAt": "2026-07-22T18:03:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f4802356958c52668fc1",
@@ -4055,22 +4071,6 @@
       "fetchedAt": "2026-07-27T04:02:05.858Z"
     },
     {
-      "id": "4bd20f8d181e2651b396",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects",
-      "url": "https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects",
-      "author": "PyTorch Foundation",
-      "summary": "TL;DR In April 2025, the PyTorch Foundation evolved into a multi-project Foundation, with the objective to support deeper collaboration across domains and help scale innovation throughout the AI lifecycle. Today,...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/PyTorch-Foundation-Project-Updates.png",
-      "publishedAt": "2026-07-22T14:44:38.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-26T01:58:14.523Z"
-    },
-    {
       "id": "9a79ab7b3f72b31f2433",
       "sourceId": "deepmind",
       "sourceName": "DeepMind Blog",
@@ -4084,7 +4084,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
       "publishedAt": "2026-07-22T13:38:54.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "65f4c202a2db620bcf17",
@@ -4116,7 +4116,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "eda42bad5e841e2adf31",
@@ -4215,22 +4215,6 @@
       "fetchedAt": "2026-08-10T02:34:17.619Z"
     },
     {
-      "id": "ad6bf8452cc621dabbb4",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "PyTorch Conference North America Schedule Is Live",
-      "url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live",
-      "author": "PyTorch Foundation",
-      "summary": "PyTorch Conference North America will bring developers, researchers, and practitioners to San Jose on October 20–21 for sessions spanning training and inference, compiler innovations, responsible AI, applications, and the PyTorch...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2025/12/PyTorch-Conference-North-America-2026-1024x538.png",
-      "publishedAt": "2026-07-21T23:52:08.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-20T01:51:20.253Z"
-    },
-    {
       "id": "181a515916a870fa210e",
       "sourceId": "nvidia",
       "sourceName": "NVIDIA Blog",
@@ -4324,7 +4308,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17549136/preview.png?md5=fe9f971cff92af376cef906da0c4049d",
       "publishedAt": "2026-07-21T15:58:39.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3188e9ed0b50c9a485e9",
@@ -4356,7 +4340,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
       "publishedAt": "2026-07-21T15:16:30.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c67fb1ca239a265309b9",
@@ -4404,7 +4388,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-current-state-agentic-ai-feature.png",
       "publishedAt": "2026-07-21T12:33:09.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d6c9b5a23f97479d79be",
@@ -4452,7 +4436,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-21T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0ecd7f4f8e6360666f53",
@@ -4532,7 +4516,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-langgraph-cover.png",
       "publishedAt": "2026-07-20T11:27:18.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "aec8817e810e97eced16",
@@ -4580,7 +4564,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3b3c452de8b5754554e5",
@@ -4596,7 +4580,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "4f7d7c6a32d529d0ec33",
@@ -4612,7 +4596,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b2ffba686c9f636db5ef",
@@ -4628,7 +4612,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "965eac03e74dd688704b",
@@ -4692,7 +4676,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-17T15:00:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "086f6f2e8d879f3c5094",
@@ -4708,7 +4692,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-agentic-ai-security-defending-against-prompt-injection-and-tool-misuse-feature.png",
       "publishedAt": "2026-07-17T12:00:32.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c9858e00d8a00a3c84d7",
@@ -4772,7 +4756,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5466c9f9672da05344c3",
@@ -4788,7 +4772,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3ba3c48a325340080c38",
@@ -4836,7 +4820,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-local-ai-ollama-setup-feature-b-scaled.png",
       "publishedAt": "2026-07-16T12:25:41.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d59341acde51e70c128b",
@@ -4852,7 +4836,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-16T11:49:48.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "41f43d567a345983296f",
@@ -4868,7 +4852,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-16T09:30:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "486e949a5ff26250ddf6",
@@ -4900,7 +4884,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7174f50de7fc0a4b0dad",
@@ -4980,7 +4964,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-15T17:27:01.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "02308b57ed6c0d72b6a9",
@@ -4996,23 +4980,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17259734/preview.png?md5=e39b07aed95ad1fcc8aa2c99ac4db3e6",
       "publishedAt": "2026-07-15T15:19:54.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "cfd096a5b86475622f75",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box",
-      "url": "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box",
-      "author": "Corbin Robeck, Puyan Lotfi, Ian Barber, Shane Nay, Alexey Loginov, Oleksandr Stashuk, Wenyuan Chi",
-      "summary": "TLDR The PyTorch-Triton 3.7 release introduces the Triton Plugin Extensions system, a framework for dynamically loading custom compiler passes, dialects (including their ops), and DSL extensions into upstream Triton at...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/06/Triton-Plugin-Extensions-Enabling-TLX-and-Custom-Compiler-Passes-Out-of-the-Box.png",
-      "publishedAt": "2026-07-15T15:09:15.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-20T01:51:20.253Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "61bf6c758514df4da778",
@@ -5044,7 +5012,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-scikit-ollama-for-scikit-llm-ollama-integration-feature.png",
       "publishedAt": "2026-07-15T12:00:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "65e8a44a7adff23ef449",
@@ -5108,7 +5076,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-15T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "aae9dff736b1609cbfd8",
@@ -5124,7 +5092,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-15T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "698bea7c6b4a190ddf5f",
@@ -5140,7 +5108,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-07-14T19:20:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "696e6f1f3b925c9d2a2d",
@@ -5172,7 +5140,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-14T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b9bd29ec6103f865e7a4",
@@ -5204,7 +5172,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-LLM-Evaluation-Frameworks-Compared.png",
       "publishedAt": "2026-07-14T12:00:29.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "dd05e8a791d80286077a",
@@ -5284,7 +5252,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-07-13T12:37:28.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d334f30803416b5a1d22",
@@ -5316,7 +5284,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-13T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7acf0dce3aa7f6d41cb7",
@@ -5348,7 +5316,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-12T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f0ade9b82fe92ccca81c",
@@ -5364,7 +5332,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-12T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "921491b9726415ec208d",
@@ -5380,7 +5348,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-11T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "33707f375b72c4882313",
@@ -5396,7 +5364,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/17471208/preview.png?md5=4f9e8b47869557e2b1c009e4aac34dce",
       "publishedAt": "2026-07-11T00:02:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "cf8f6b52c9c36b585e2e",
@@ -5412,7 +5380,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-11T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "92504b481ecfa886fe4f",
@@ -5479,22 +5447,6 @@
       "fetchedAt": "2026-07-20T04:04:34.015Z"
     },
     {
-      "id": "4b219d8f3ed324d92d6a",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels",
-      "url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels",
-      "author": "Jacky (Junqing) Zhou, Hongtao Yu, Jackie (Jiaqi) Xu, Menglu Yu, Ethan Che, Han Xu, Darren Liu, Peng…",
-      "summary": "TL;DR In this blog post, we present various novel kernel fusion techniques for common normalization ops like LayerNorm and RMSNorm, which provide significant speedup by reducing the memory-IO overhead of...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/All-PyTorch-Blog-Social-Images-12.png",
-      "publishedAt": "2026-07-10T14:35:48.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-13T02:47:20.106Z"
-    },
-    {
       "id": "742c08f983f0ac8bbfab",
       "sourceId": "openai",
       "sourceName": "OpenAI Blog",
@@ -5524,7 +5476,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c7f82b755f237282403c",
@@ -5572,7 +5524,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-09T20:47:18.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7cb9ab62b55fcc8ddedb",
@@ -5655,22 +5607,6 @@
       "fetchedAt": "2026-07-31T03:50:01.973Z"
     },
     {
-      "id": "9e131868e95ce0e22ad4",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "PyTorch 2.13 Release Blog",
-      "url": "https://pytorch.org/blog/pytorch-2-13-release-blog",
-      "author": "PyTorch Foundation",
-      "summary": "We are excited to announce the release of PyTorch® 2.13 (release notes)! The PyTorch 2.13 release features the following changes: FlexAttention lands on Apple Silicon (MPS), with up to...",
-      "imageUrl": null,
-      "publishedAt": "2026-07-08T17:42:23.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-10T02:34:17.619Z"
-    },
-    {
       "id": "a824efdd538978040b2c",
       "sourceId": "nvidia",
       "sourceName": "NVIDIA Blog",
@@ -5748,7 +5684,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-08T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f39d835a5e1bb4f2381b",
@@ -5780,7 +5716,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T21:15:33.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "10b8d7bda254c37f418f",
@@ -5812,7 +5748,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T15:20:06.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5a85d5af1dd7424459bb",
@@ -5860,7 +5796,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-07T08:54:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "743f470887a6fa9a5138",
@@ -5892,7 +5828,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6ccdae69e42c7adff405",
@@ -5908,7 +5844,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-07T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "c2b1ef1f1aec97aaf0d0",
@@ -5943,22 +5879,6 @@
       "fetchedAt": "2026-07-29T03:39:22.169Z"
     },
     {
-      "id": "30e241161cdd37b0cc95",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm",
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm",
-      "author": "AMD: Chaojun Hou, Liz Li, Zachary Streeter, Xinyu Kang, Lei Zhang, Yuankai Chen, Yao Fu, Wen Chen,…",
-      "summary": "Training state-of-the-art large language models (LLMs) with billions of parameters requires distributed training across hundreds or thousands of GPUs. At this scale, hardware failures are not exceptional events—they are expected....",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/figure-1.png",
-      "publishedAt": "2026-07-06T23:31:47.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-06T03:36:37.820Z"
-    },
-    {
       "id": "a656a8e4cb4f7b8f4f8b",
       "sourceId": "wandb",
       "sourceName": "Weights & Biases",
@@ -5972,7 +5892,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-06T17:34:28.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "162e78072470af5a8858",
@@ -6052,7 +5972,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-06T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ad54120494988b33f4b2",
@@ -6164,23 +6084,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-04T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "8ee9c9753143e40d5e21",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Understanding PyTorch’s Test Infrastructure",
-      "url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure",
-      "author": "Riya Punia, Red Hat",
-      "summary": "TL;DR PyTorch tests are often generated at import time, so CI failures may show device/dtype-specific names that differ from the source template. For local debugging, pytest -k and test/run_test.py are...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/Understanding-PyTorchs-Test-Infrastructure.png",
-      "publishedAt": "2026-07-03T15:00:07.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-06T03:36:37.820Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0fd0c47fe9e45befce2b",
@@ -6196,7 +6100,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-1440x810.jpg",
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6e72bd9bf148ef6a8763",
@@ -6229,22 +6133,6 @@
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "dateUnknown": false,
       "fetchedAt": "2026-08-23T01:59:37.176Z"
-    },
-    {
-      "id": "574a80d136ade10542ab",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Building the Future of On-Device AI at the ExecuTorch Hackathon",
-      "url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon",
-      "author": "Matt White, CTO of the PyTorch Foundation, Andrew Caples, Business Development Manager at Meta, and…",
-      "summary": "This past weekend in San Francisco, builders, researchers, mobile developers, and AI practitioners came together for the ExecuTorch Hackathon, a two-day, on-site event focused on a practical and increasingly important...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/07/collage_1_building-1.jpg",
-      "publishedAt": "2026-07-02T20:47:16.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-07-30T03:28:37.374Z"
     },
     {
       "id": "46a39eb57000bd8c6c7b",
@@ -6308,7 +6196,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-01T18:15:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3c9f526e4b6ee678525e",
@@ -6324,7 +6212,7 @@
       "imageUrl": null,
       "publishedAt": "2026-07-01T16:13:51.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "5d84db0d360aa0ad81d9",
@@ -6340,23 +6228,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
       "publishedAt": "2026-07-01T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
-    },
-    {
-      "id": "141effd0a442b2c800a8",
-      "sourceId": "pytorch",
-      "sourceName": "PyTorch Blog",
-      "category": "框架与工具",
-      "sourceColor": "#EE4C2C",
-      "sourceColorAlt": "#FF8A65",
-      "title": "Shopify Joins the PyTorch Foundation as a Platinum Member",
-      "url": "https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member",
-      "author": "PyTorch Foundation",
-      "summary": "The PyTorch Foundation, a community-driven hub for open source AI under the Linux Foundation, is announcing today that Shopify has joined as a Platinum member. Shopify provides essential internet infrastructure...",
-      "imageUrl": "https://pytorch.org/wp-content/uploads/2026/06/Shopify-Joins-PyTorch-Foundation-as-Platinum-Member-1024x576.png",
-      "publishedAt": "2026-07-01T15:55:59.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-07-28T03:35:15.810Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "66c56276ed2c8bd16d14",
@@ -6468,7 +6340,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.width-1300.png",
       "publishedAt": "2026-06-30T16:02:40.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b298dc6b601895a08e6c",
@@ -6596,7 +6468,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
       "publishedAt": "2026-06-30T06:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "234811bb1e47deaaeb46",
@@ -6740,7 +6612,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-29T12:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "32a0309f57ab804d1af6",
@@ -6836,7 +6708,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/17301041/preview.png?md5=7f6d2aabac2dcb2604a6e018d1341044",
       "publishedAt": "2026-06-26T23:59:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "2e368c1f7e393b795c81",
@@ -6900,7 +6772,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/onlineinference/images/views/17262102/preview.png?md5=bb8a5cd84c0cd7341d7d23316e871b4b",
       "publishedAt": "2026-06-25T23:47:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f32fd90c3d5fb79f4974",
@@ -6916,7 +6788,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17342454/preview.png?md5=1ace7d46100773c628ed1702893f7364",
       "publishedAt": "2026-06-25T19:37:32.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "649f8608bf5454840e4c",
@@ -6996,7 +6868,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
       "publishedAt": "2026-06-24T16:30:01.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "cb5d57c9452a079c5d59",
@@ -7060,7 +6932,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-24T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "06a0ba2bf68c1be146bc",
@@ -7092,7 +6964,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/17245367/preview.png?md5=792ed69f39a90a85f7b09bf739bfc7f4",
       "publishedAt": "2026-06-23T22:45:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "64c6c8fb42266d485820",
@@ -7108,7 +6980,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/16893303/preview.png?md5=5c38d0e82a7fa120d4aca51e6eaf00f6",
       "publishedAt": "2026-06-23T22:31:51.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "49dd346da1b73b649bd9",
@@ -7124,7 +6996,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17317650/preview.png?md5=01dbe39c12dbaf1508b4637fce10c29e",
       "publishedAt": "2026-06-23T19:48:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d2c656a20bed09968790",
@@ -7156,7 +7028,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17317169/preview.png?md5=d96e25de49cd41a6223a31f0a305f1dd",
       "publishedAt": "2026-06-23T16:58:52.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "ecbacbafbd084e7d7ad9",
@@ -7476,7 +7348,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/onlineinference/images/views/13952894/preview.png?md5=df30d50ef57b7867374aee87b111ed7a",
       "publishedAt": "2026-06-17T22:08:10.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "8de0d3d458ad80967467",
@@ -7508,7 +7380,7 @@
       "imageUrl": "https://storage.ghost.io/c/38/9a/389ab7af-1195-4ce6-9b1f-d9fb39ea9790/content/images/2026/06/00-thinking-in-life.png",
       "publishedAt": "2026-06-17T14:02:39.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "97b7c56b9566b503bca9",
@@ -7572,7 +7444,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-16T21:29:50.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "fe803bd03dac45d48f76",
@@ -7588,7 +7460,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-16T15:46:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "7d972cce618f098004d3",
@@ -7700,7 +7572,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/16819310/preview.png?md5=48b2fdeba331e26d7333aada8a62fe66",
       "publishedAt": "2026-06-11T21:46:39.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "b1e15092d23e38e8b655",
@@ -7732,7 +7604,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/ai-team-articles/images/views/16731849/preview.png?md5=4b1d7f82bde4d15b620f4db134cf2044",
       "publishedAt": "2026-06-11T19:08:23.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "965d9128d1056f6422eb",
@@ -7764,7 +7636,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
       "publishedAt": "2026-06-10T16:24:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "2f01d8c30bd797efa9d6",
@@ -7780,7 +7652,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-10T10:21:19.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "15b81510155394f0fe7a",
@@ -7812,7 +7684,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17175171/preview.png?md5=dcca4af6fdf6db3adb715d3a03832b49",
       "publishedAt": "2026-06-09T18:58:33.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "bd0078d8236bec19b8e3",
@@ -7828,7 +7700,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3-5_Live_Translate_hero.width-1300.png",
       "publishedAt": "2026-06-09T15:16:25.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "22c845c4140f632304fb",
@@ -7844,7 +7716,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
       "publishedAt": "2026-06-09T14:10:19.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "1ce26e0ab6cc98f2dacf",
@@ -7860,7 +7732,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/130.width-1300.jpg",
       "publishedAt": "2026-06-09T14:02:33.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "a37a858e2e16350eb0a6",
@@ -7892,7 +7764,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-08T19:03:54.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "a65214a672ca249ddbc0",
@@ -7908,7 +7780,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-06-08T13:04:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "78745b31becf9405bf4a",
@@ -8004,7 +7876,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/12936034/preview.png?md5=316a6609ef0104dd81590402d1599603",
       "publishedAt": "2026-06-05T19:23:35.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "a5ca068b6dc2943fd8a8",
@@ -8052,7 +7924,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-06-04T19:10:09.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "3ae41badff6ff1797898",
@@ -8084,7 +7956,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/byyoung3/images/views/17100314/preview.png?md5=02eaad1943744fa5b311c8dfb7f0c1d2",
       "publishedAt": "2026-06-02T23:30:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "0158e491e2dc2985920b",
@@ -8100,7 +7972,7 @@
       "imageUrl": "https://storage.googleapis.com/wandb-production.appspot.com/wandb_fc/images/views/17031716/preview.png?md5=7d99a2152f68a7a8b1182fadfeb33062",
       "publishedAt": "2026-06-02T17:31:44.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "80be7c9144eddde86ec1",
@@ -8116,7 +7988,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-02T16:52:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "22034d88d11e7abe6238",
@@ -8132,7 +8004,7 @@
       "imageUrl": null,
       "publishedAt": "2026-06-01T18:26:30.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "a82b9d0f6b263517d250",
@@ -8199,54 +8071,6 @@
       "fetchedAt": "2026-07-19T03:54:49.813Z"
     },
     {
-      "id": "0151ab81d43d4bb1d6bb",
-      "sourceId": "google-ai",
-      "sourceName": "Google AI Blog",
-      "category": "公司研究",
-      "sourceColor": "#4285F4",
-      "sourceColorAlt": "#34A853",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
-      "author": "",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
-      "publishedAt": "2026-05-29T19:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-08-04T03:36:41.631Z"
-    },
-    {
-      "id": "c93577768ea5980e2bed",
-      "sourceId": "google-ai",
-      "sourceName": "Google AI Blog",
-      "category": "公司研究",
-      "sourceColor": "#4285F4",
-      "sourceColorAlt": "#34A853",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
-      "author": "",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
-      "publishedAt": "2026-05-29T17:30:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-07-28T03:35:15.810Z"
-    },
-    {
-      "id": "933949eef20d234814ad",
-      "sourceId": "google-ai",
-      "sourceName": "Google AI Blog",
-      "category": "公司研究",
-      "sourceColor": "#4285F4",
-      "sourceColorAlt": "#34A853",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs",
-      "author": "",
-      "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp",
-      "publishedAt": "2026-05-29T12:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-07-28T03:35:15.810Z"
-    },
-    {
       "id": "f36a6c138e98b54bd6fc",
       "sourceId": "meituan-tech",
       "sourceName": "美团技术团队",
@@ -8292,7 +8116,119 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/5a8954c2e7b681ee8fb8d2c8a73868cd157865.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "25770ae1f855855bf4fa",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "cd902ea0087de6ba5a03",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Building the Future of On-Device AI at the ExecuTorch Hackathon",
+      "url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "77ce0be5415cb5102880",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Core PyTorch Sessions at PyTorch Conference North America 2026",
+      "url": "https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "061a31f0ee5415fb21a4",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects",
+      "url": "https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "6b7716de28239f26b36d",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch",
+      "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "57cfcde7746c278903d8",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities",
+      "url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "5854541f9be9b1a5ba4e",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements",
+      "url": "https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "94c8b4241e476b5071ee",
@@ -8308,7 +8244,39 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/97ea31d07a6d2933012521da83d6af45614059.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "65bb3e10eb895626e2dc",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Harnessing AI for Day-One Model Enablement",
+      "url": "https://pytorch.org/blog/harnessing-ai-for-day-one-model-enablement",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "e72ac116fb344b9fd191",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring",
+      "url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "d082008ac18f9fe17020",
@@ -8340,7 +8308,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/9720828f0ff8f07f6ce01f56d9e3f820362245.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "2496f1ce5b3e81b20701",
@@ -8359,6 +8327,182 @@
       "fetchedAt": "2026-08-20T01:51:20.253Z"
     },
     {
+      "id": "252d8125c9a5644316ab",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "PyTorch 2.13 Release Blog",
+      "url": "https://pytorch.org/blog/pytorch-2-13-release-blog",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "47104cae5cda52ee5d2a",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup",
+      "url": "https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "09c94786bf5e7a2633fb",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "PyTorch Conference North America 2026 Keynote Speaker Sessions Announced",
+      "url": "https://pytorch.org/blog/pytorch-conference-north-america-2026-keynote-speaker-sessions-announced",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "2c35d1b73ea187851da3",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "PyTorch Conference North America Announces 2026 Keynotes",
+      "url": "https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "a2877c286154f5e3fbab",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "PyTorch Conference North America Schedule Is Live",
+      "url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "ff869ac407076134b354",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv",
+      "url": "https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "e3bf31a22e33aa0e7848",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "PyTorch Foundation Flare Pin Community Design Contest",
+      "url": "https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "cabad820101be854d4ee",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Shopify Joins the PyTorch Foundation as a Platinum Member",
+      "url": "https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "acb0d066e05918ca87af",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels",
+      "url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "9f17cca19a2f38ce9298",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box",
+      "url": "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
+      "id": "bc08f84d41b70d1b3737",
+      "sourceId": "pytorch",
+      "sourceName": "PyTorch Blog",
+      "category": "框架与工具",
+      "sourceColor": "#EE4C2C",
+      "sourceColorAlt": "#FF8A65",
+      "title": "Understanding PyTorch’s Test Infrastructure",
+      "url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": null,
+      "dateUnknown": true,
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
+    },
+    {
       "id": "2563b6f11e67737b1d9f",
       "sourceId": "meituan-tech",
       "sourceName": "美团技术团队",
@@ -8372,7 +8516,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/69e86f1a417ef555aed62d74c1152c53108351.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "e702c2fd370700a9e617",
@@ -8404,7 +8548,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/368b1cd0634db5c41b127242d8feee08118728.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "6607d0196d4eb89c3824",
@@ -8420,7 +8564,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/f434c8979e7670cd0402c7719141eb91178306.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "fc585638e234319debf9",
@@ -8436,7 +8580,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/ef19600fdb0e6868a3574c4a8c7ff746220482.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "04da721291419ea0aa9c",
@@ -8468,7 +8612,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/8f6d0d2a1b53e0fbe26ec7f5426bd45a302269.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "f9ae4b08fd10b1629fb0",
@@ -8484,7 +8628,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/a690ba49597fd8720f96ea56573b54cc151290.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     },
     {
       "id": "420e4ecb26e1294101e8",
@@ -8516,7 +8660,7 @@
       "imageUrl": "https://p1.meituan.net/meituantechblog/3415508a98cf053008ffb59af0ed592a421327.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-08-27T09:48:38.777Z"
+      "fetchedAt": "2026-08-28T11:23:23.203Z"
     }
   ]
 }
