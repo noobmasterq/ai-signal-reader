@@ -1,11 +1,139 @@
 {
-  "generatedAt": "2026-11-23T07:37:46.571Z",
+  "generatedAt": "2026-11-24T09:53:31.221Z",
   "timezone": "Asia/Hong_Kong",
-  "totalArticles": 936,
+  "totalArticles": 931,
   "sourcesConfigured": 39,
   "sourcesOk": 32,
   "sourceErrors": 7,
   "articles": [
+    {
+      "id": "57073fcdf511d1e68a0b",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "author": "",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2026-11-23T21:20:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "14ff45e7ec944dcb3322",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "框架与工具",
+      "sourceColor": "#FFBD2E",
+      "sourceColorAlt": "#FF8A00",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "f01ee27a014461cd27ca",
+      "sourceId": "nvidia",
+      "sourceName": "NVIDIA Blog",
+      "category": "公司研究",
+      "sourceColor": "#76B900",
+      "sourceColorAlt": "#B7E34A",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026",
+      "author": "NVIDIA Writers",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1.jpg",
+      "publishedAt": "2026-11-23T17:00:08.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "0baf35ddea46d5a0c462",
+      "sourceId": "google-ai",
+      "sourceName": "Google AI Blog",
+      "category": "公司研究",
+      "sourceColor": "#4285F4",
+      "sourceColorAlt": "#34A853",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "author": "",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "69ece10af34e4ef6b239",
+      "sourceId": "deepmind",
+      "sourceName": "DeepMind Blog",
+      "category": "公司研究",
+      "sourceColor": "#6C5CE7",
+      "sourceColorAlt": "#00C2FF",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "author": "",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "imageUrl": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+      "publishedAt": "2026-11-23T16:59:40.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "359b8ace589d1e30aaa1",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "author": "",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "83db3ec57a6d0870f77f",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "author": "",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "5cc060e87347d3b949ba",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "框架与工具",
+      "sourceColor": "#FFBD2E",
+      "sourceColorAlt": "#FF8A00",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "author": "",
+      "summary": "暂无摘要，点击查看原文。",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
     {
       "id": "378d95178e7793b014b4",
       "sourceId": "openai",
@@ -20,7 +148,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-22T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "80e5f59ee0a8a27d914f",
@@ -36,7 +164,23 @@
       "imageUrl": null,
       "publishedAt": "2026-11-21T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "072bf1112021e93e70de",
+      "sourceId": "microsoft-ai",
+      "sourceName": "微软AI",
+      "category": "公司研究",
+      "sourceColor": "#0A84FF",
+      "sourceColorAlt": "#5AC8FA",
+      "title": "4 cybersecurity steps every organization should take in the age of AI",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/11/19/security-fundamentals-to-enable-the-frontier",
+      "author": "sbaynes",
+      "summary": "The post 4 cybersecurity steps every organization should take in the age of AI appeared first on Source.",
+      "imageUrl": "https://blogs.microsoft.com/wp-content/uploads/sites/5/2026/11/Banner-TTG-SecuringTheFundamentals-1024x576.png",
+      "publishedAt": "2026-11-20T23:57:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "11c4db6df2da93997c7a",
@@ -52,7 +196,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-20T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "aa30915c4f99cc346492",
@@ -68,7 +212,7 @@
       "imageUrl": "https://blogs.windows.com/wp-content/uploads/sites/2/2026/11/Microsoft-Ignite-2026_Building-Windows-for-the-next-era-of-work.jpg",
       "publishedAt": "2026-11-20T00:44:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "3b973fc935fcaba8d01a",
@@ -84,7 +228,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "aa0b2dfa45278c302f39",
@@ -100,7 +244,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "0747ce32d3adbefa3994",
@@ -116,7 +260,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "70ca8055f7403b087515",
@@ -132,7 +276,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-20T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8a3593173e4be47a7095",
@@ -148,7 +292,7 @@
       "imageUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/Episode3-Amini-Horvitz-Topol_TheShapeofThings_TW_LI_FB_1920x1080-1.png",
       "publishedAt": "2026-11-19T22:14:18.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "977d136e457cf40310c8",
@@ -164,7 +308,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png",
       "publishedAt": "2026-11-19T20:00:15.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "838fe24ebd16fe857e85",
@@ -180,7 +324,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-19T18:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "bdd7bed76161307b9068",
@@ -196,7 +340,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4",
       "publishedAt": "2026-11-19T17:00:35.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "364945247903fbc7bd1e",
@@ -212,7 +356,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-19T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "bc1f002cbb7f7331ea2e",
@@ -228,7 +372,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday_November_19.jpg",
       "publishedAt": "2026-11-19T14:00:12.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c6d560792b0c4a6053fe",
@@ -244,23 +388,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-19T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
-    },
-    {
-      "id": "8a0744479012cd672d81",
-      "sourceId": "openai",
-      "sourceName": "OpenAI Blog",
-      "category": "公司研究",
-      "sourceColor": "#10A37F",
-      "sourceColorAlt": "#6EE7C4",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "author": "",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill",
-      "publishedAt": "2026-11-19T00:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "6a7b18b951626b484da5",
@@ -276,7 +404,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/6pUIP8aRHn6eGeRGBWd0B0/c447f22952fcb14b3c43104989c1e739/pr-scans-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-19T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d8ff31a5c491ce35b32e",
@@ -292,7 +420,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/3oycdkFjJTGZs3kPmqJXJx/e793dee688314652562a63782e000e77/daybreak-blue-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-19T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "a5d45406bc54e4cefd78",
@@ -308,7 +436,23 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5v8vfxgtSsA7NgJTT3kzqU/5c217881e8568e2b342dc59a8e69d7e1/codex-security-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-19T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "8a0744479012cd672d81",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "author": "",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "41519a1871b2949cf363",
@@ -324,7 +468,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
       "publishedAt": "2026-11-18T21:35:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e20986be58c26f2a2e2b",
@@ -340,7 +484,7 @@
       "imageUrl": "https://blogs.microsoft.com/wp-content/uploads/sites/5/2026/11/FY27_OML-Q2-PA-ECS-CIF_Blog_Series_1-Critical_Minerals-Blog_04-1024x576.png",
       "publishedAt": "2026-11-18T21:13:20.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e02d060b4940682ac491",
@@ -356,7 +500,7 @@
       "imageUrl": "https://microsoft.ai/wp-content/uploads/2026/11/All-Up-Blog.jpg",
       "publishedAt": "2026-11-18T20:47:44.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "f9c1a6c638279bfa7391",
@@ -372,7 +516,7 @@
       "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/Security-Ignite_link-prev.jpg",
       "publishedAt": "2026-11-18T20:36:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2c9c73163c7307a97fef",
@@ -388,7 +532,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T19:54:56.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "07e56c1d6b715a6de90c",
@@ -404,7 +548,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T18:53:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2f54fa057f98c3ab3d18",
@@ -420,7 +564,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
       "publishedAt": "2026-11-18T18:13:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4ce0945f26b470f93974",
@@ -436,7 +580,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-18T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "fa064c017deea8111556",
@@ -452,7 +596,7 @@
       "imageUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
       "publishedAt": "2026-11-18T16:06:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c193a2ee7b09bbe84c21",
@@ -468,7 +612,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T15:00:23.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "044c56a4c360082f1aff",
@@ -484,7 +628,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg",
       "publishedAt": "2026-11-18T14:00:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "621afd936ef0a1abcd9f",
@@ -516,7 +660,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-18T10:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "635561767e1456c9fea7",
@@ -532,7 +676,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/2YS8yWiGpKflhlEnAkcLU/f51ead4391706f6c3198f0d61a0f147a/research-acceleration-the-jagged-frontier-social.png",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "bbd40c8c3e4852b03ec9",
@@ -548,7 +692,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/4hobAtsV8r9aiWOWQkUYu6/aec1eae52f5c7241756a43c764ef43f5/sumitomo-life-seo-white-canvas-final.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "3521d91f9fb1605cdbc5",
@@ -564,7 +708,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1PnylD7lJwgUw7jYNP8wLh/7fa5553001136f3982e8d4db44146de3/inside-the-codex-sandbox-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-18T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "dae278331e34f4d94213",
@@ -580,7 +724,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/62zvkDv3unaiLBblzJHY4f/d61ad5ec9ebc02f033d0efac3807be3e/managing-frontier-ai-risk-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-18T06:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "7e37f306183281620a76",
@@ -596,7 +740,7 @@
       "imageUrl": "https://dms.licdn.com/playlist/vid/v2/D5605AQG8LuExN8tn9Q/thumbnail-with-play-button-overlay-high/B56aHsgYFUKMC4-/0/1794969288534?e=2147483647&v=beta&t=QFwaRAfQJCw2dyVA_8EY0YA7mzKPLRDLq6cJfODG2kc",
       "publishedAt": "2026-11-18T03:39:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "97554be9081d1d45b4d7",
@@ -612,23 +756,7 @@
       "imageUrl": "https://dms.licdn.com/playlist/vid/v2/D5605AQFfOjX4VTNPJQ/thumbnail-with-play-button-overlay-high/B56aHrNXWYHsC0-/0/1794947515420?e=2147483647&v=beta&t=51y9DgmapaUW6Ts2FDLdgIe5sYTbzVMik1Gpoajq5j4",
       "publishedAt": "2026-11-18T00:33:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
-    },
-    {
-      "id": "60a6c2d2a4c41246a7f7",
-      "sourceId": "openai",
-      "sourceName": "OpenAI Blog",
-      "category": "公司研究",
-      "sourceColor": "#10A37F",
-      "sourceColorAlt": "#6EE7C4",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "author": "",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/658zg0FHAg7zuL73DTFCfC/fff21fd18c260ce64a10a14ee8d4e851/advancing-chip-design-social.png?w=1600&h=900&fit=fill",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d6d623323bf833452716",
@@ -644,7 +772,23 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/6oojxLpPBP1EqJiCFQof6r/868dca9f2befad4a1cfa21aeaa7d1cdb/le-groupe-figaro-and-openai-announce-partnership-seo.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "60a6c2d2a4c41246a7f7",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "author": "",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/658zg0FHAg7zuL73DTFCfC/fff21fd18c260ce64a10a14ee8d4e851/advancing-chip-design-social.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "0af2b912bb591ea23d1b",
@@ -660,7 +804,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "f1dea48a3185fbb3c92f",
@@ -676,7 +820,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "cb1149a6ca79d5800aa1",
@@ -708,7 +852,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-17T18:36:03.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "10cc07c8c3a88c8d7244",
@@ -756,7 +900,7 @@
       "imageUrl": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png",
       "publishedAt": "2026-11-17T17:45:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d5aa3e4d8b9cc52abd79",
@@ -772,7 +916,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-17T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "383c3f2b4564cb6e3bbf",
@@ -804,7 +948,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
       "publishedAt": "2026-11-17T14:00:10.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2e35a8c01347166fdd27",
@@ -836,7 +980,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-17T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "9eb808243ba26a56f49b",
@@ -852,23 +996,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/4AvTdfi4XgE0hchiQH8UhY/6c9c5278cafc000de19c0892beecbf8c/strengthening-nato-and-allied-cyber-defences-with-ai-seo.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
-    },
-    {
-      "id": "e7234588c6662ce581d5",
-      "sourceId": "openai",
-      "sourceName": "OpenAI Blog",
-      "category": "公司研究",
-      "sourceColor": "#10A37F",
-      "sourceColorAlt": "#6EE7C4",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "author": "",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1rTLbF8FhSFEoyiGB0lTYU/418dfbea2c146e27e301a9f85869eb12/introducing-openai-for-chile-social.png?w=1600&h=900&fit=fill",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "3889d139c8d5c4685e64",
@@ -884,7 +1012,23 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/3MwSwa1GcJHdJGeOy7u0LZ/7ecfaba7da6555bc46c1e85f50c13bdb/astra-law-legal-intelligence-social-smooth.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-17T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
+    },
+    {
+      "id": "e7234588c6662ce581d5",
+      "sourceId": "openai",
+      "sourceName": "OpenAI Blog",
+      "category": "公司研究",
+      "sourceColor": "#10A37F",
+      "sourceColorAlt": "#6EE7C4",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "author": "",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1rTLbF8FhSFEoyiGB0lTYU/418dfbea2c146e27e301a9f85869eb12/introducing-openai-for-chile-social.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "dateUnknown": false,
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "a769f8d4a1fd580ec85c",
@@ -900,7 +1044,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg",
       "publishedAt": "2026-11-16T23:00:05.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b98da48015894d1876be",
@@ -948,7 +1092,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/contributor-award-featured-image.png",
       "publishedAt": "2026-11-16T20:16:55.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c4a5be422f0d68cbf6d7",
@@ -996,7 +1140,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/IMG_9825-1-scaled.jpeg",
       "publishedAt": "2026-11-16T20:00:37.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4a97e3b98a677212c763",
@@ -1012,7 +1156,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/793p1h1iUmksoWkDep5NRR/580e87d687cea7ef8e8288bef51c7bd4/academic-researchers-seo-card.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "520964a2b88245738613",
@@ -1028,7 +1172,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/48yJpyhKNBj3OvZAAEeLWN/5a888045c242da8cc8f8dc539f5f92fe/strengthening-online-child-safety-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b00eaf9694c2d850b6b9",
@@ -1044,7 +1188,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/IMG_4243-300x225.jpg",
       "publishedAt": "2026-11-16T16:20:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b95f465e5faac80a4f02",
@@ -1060,7 +1204,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ethernet-lambda-blog-1920x1080-1.jpeg",
       "publishedAt": "2026-11-16T16:00:51.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1261464f9a598be44e2b",
@@ -1076,7 +1220,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487.png",
       "publishedAt": "2026-11-16T16:00:47.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8fd9cdf253ca7a0893cc",
@@ -1092,7 +1236,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/vera-rubin-mlperf-training-endpoints.png",
       "publishedAt": "2026-11-16T16:00:25.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "cfdc5b7b7d59fb48e7a5",
@@ -1108,7 +1252,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376.jpg",
       "publishedAt": "2026-11-16T16:00:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "85941f29bef04f218b10",
@@ -1124,7 +1268,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/cuda-at-20-1920x1080-1.jpg",
       "publishedAt": "2026-11-16T16:00:11.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b0ebccf1ee9c99b6080e",
@@ -1140,7 +1284,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1.jpg",
       "publishedAt": "2026-11-16T16:00:01.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "7a7162458972ecb564d4",
@@ -1156,7 +1300,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-16T14:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "99f055286645953dbc34",
@@ -1172,7 +1316,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/r0NQL0JSQTS1Kzvpq9Fqm/6b10f87bd44e394bb04737e1ca00b017/science-at-the-frontier-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T12:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "97457e55073f944a86ef",
@@ -1204,7 +1348,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/41tqM423rl34f77g33NcJB/df1ae54cfce7ec525cea365c54358579/revolut-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T09:30:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "da747e41355223382933",
@@ -1220,7 +1364,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/34LfcwNBjpeCtav2XM8FhI/462f77d234875c50af8cc3368e9c529c/lvmh-media-division-partnership-seo-v2.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "10a55e254f051381bd40",
@@ -1236,7 +1380,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1KkjAzVSr4nz5D67tGCxVH/8a47206051b698db4cbdad829eff241b/embedded-assessments-neutral-023-social-revised.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e24d7a90e3e88036e996",
@@ -1252,7 +1396,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "111ceb30e7d553c93b49",
@@ -1268,7 +1412,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "5a7589b008921f820a19",
@@ -1284,7 +1428,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5vgplp4RJGXJ0luyMzW884/de0639288804ff265a54a4222cbac569/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T06:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "ca091b43ed5d66423312",
@@ -1300,7 +1444,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/JEPsGb10RBI3TRoCF2MGd/07abdbf116e0a370e7e20edddca5e96b/advancing-computer-use-for-healthcare-teams-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T06:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "3bca7f1cacaa12121467",
@@ -1316,7 +1460,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg",
       "publishedAt": "2026-11-16T00:00:28.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "f003148b4533482dec37",
@@ -1332,7 +1476,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/56F7tT9829W28yYUsIwxk0/fa52b7a1f91fc5b65a70ac92be2150c9/the-king-s-trust-and-openai-launch-1m-partnership-seo.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1895223c17f8a6b6c428",
@@ -1348,7 +1492,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/2Vrrt2eTu8OfGbuliOLQ99/cddb51f7a917c176c63b4d2318a20f15/holiday-extras-dots-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8a24d5d318e63cdd48be",
@@ -1364,7 +1508,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "aaecd6efee066dbe963a",
@@ -1380,7 +1524,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1RdsG8XilINGFZUscLvAnj/b3bfb7912b44166e8075581574a7b777/toward-defining-the-standard-model-social.png?w=1600&h=900&fit=fill",
       "publishedAt": "2026-11-15T22:00:01.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "0688a8d337dde5489b1b",
@@ -1412,7 +1556,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-15T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "ada009b4edd11285b6bd",
@@ -1444,7 +1588,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-14T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "a0d243121ae02fe3afd5",
@@ -1460,7 +1604,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-14T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c023b2bb7d44a5ffd594",
@@ -1508,7 +1652,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-13T18:00:39.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "62c2a8fc486eb2801d9c",
@@ -1556,7 +1700,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-13T14:05:22.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "43f50c9b84e872001708",
@@ -1572,7 +1716,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/HLTH-scaled.jpg",
       "publishedAt": "2026-11-13T13:00:42.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "6e11386db79b447fc0af",
@@ -1636,7 +1780,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-11-12T19:42:13.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "08c0c902f68e3b8a510d",
@@ -1652,7 +1796,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:07:35.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "505223392192bc9475c9",
@@ -1668,7 +1812,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
       "publishedAt": "2026-11-12T18:00:50.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "338a7fb328d799756a30",
@@ -1684,7 +1828,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-12T18:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "434790b30987d52ed727",
@@ -1716,7 +1860,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/page-02-image-01.png",
       "publishedAt": "2026-11-12T16:45:26.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "cd7ac627e2195726d405",
@@ -1764,7 +1908,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/normalized_latency.png",
       "publishedAt": "2026-11-12T14:45:25.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c0657423a429f50ad060",
@@ -1780,7 +1924,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg",
       "publishedAt": "2026-11-12T14:00:59.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e53803a263b42853dd79",
@@ -1796,7 +1940,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/IMG_8916-scaled.png",
       "publishedAt": "2026-11-12T12:00:19.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "664a700232ad774432bf",
@@ -1860,7 +2004,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c88b24f9a767e6c868a4",
@@ -1940,7 +2084,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
       "publishedAt": "2026-11-11T18:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "ac52b921fc554c648ba7",
@@ -1956,7 +2100,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-11T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "038713e8ab8d79e04edb",
@@ -1972,7 +2116,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-11-11T15:00:15.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "cdd49ed0fafb84e5fc88",
@@ -2004,7 +2148,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-11T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "75f3fb9f57e2c0434ae5",
@@ -2052,7 +2196,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-11T05:01:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "02ec79871f2b440a677e",
@@ -2068,7 +2212,7 @@
       "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
       "publishedAt": "2026-11-11T03:00:20.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "82dcb4b5e49777a39be2",
@@ -2084,7 +2228,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-11T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8707037a7c191d57652a",
@@ -2116,7 +2260,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/pytorch-model-1.jpg",
       "publishedAt": "2026-11-10T22:15:07.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "0c4643c5ba7203fffd9d",
@@ -2132,7 +2276,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-10T19:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8ccc5c1e8a2bf1512613",
@@ -2164,7 +2308,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/Muse-Figure-1.png",
       "publishedAt": "2026-11-10T16:45:24.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "777f7026a6adc88c810b",
@@ -2180,7 +2324,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
       "publishedAt": "2026-11-10T16:03:47.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "46a75eec38d63f8e9f7a",
@@ -2212,7 +2356,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "dd9c9778c7f1e59d10d0",
@@ -2244,7 +2388,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "af61b22fd8d88a5ddb9c",
@@ -2260,7 +2404,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-11-10T12:02:28.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "5492bb1c7636508b3b12",
@@ -2292,7 +2436,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-11-10T11:13:04.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b887d2e88b722039bc29",
@@ -2356,7 +2500,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-10T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b66dd44231e14e558094",
@@ -2404,7 +2548,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-10T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "ff72f9b2833b8a9f2e73",
@@ -2420,7 +2564,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-10T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b835e6e977fac95828ea",
@@ -2452,7 +2596,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-11-09T19:51:47.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8487305d0b445f30b945",
@@ -2548,7 +2692,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-09T12:34:29.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4a3a05735f08b4131464",
@@ -2564,7 +2708,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-09T09:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b8033b0797884ccc05bc",
@@ -2692,7 +2836,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-07T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "29ce597114355f1028a9",
@@ -2708,7 +2852,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-07T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "422d9a0762f580944278",
@@ -2724,7 +2868,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-07T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c56caadcbdc9ac4a7961",
@@ -2756,7 +2900,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-06T16:59:51.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d636efc449a86c17a78c",
@@ -2852,7 +2996,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-06T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "43838ed0c6f13126311f",
@@ -2964,7 +3108,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
       "publishedAt": "2026-11-05T17:05:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1b67b47d4f3efda8fd85",
@@ -2980,7 +3124,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "06a126dd9b683517f437",
@@ -3092,7 +3236,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b467c547310cd554412d",
@@ -3108,7 +3252,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T08:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "590f421e8c987ecc23d7",
@@ -3188,7 +3332,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e35fc219fb8b6816a53d",
@@ -3252,7 +3396,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/PyTorch-Day-China-2026-CFP-email-header-1024x536.png",
       "publishedAt": "2026-11-04T20:29:55.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d9677f4ce80226165781",
@@ -3268,7 +3412,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T17:50:10.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "58c420165b85486ca124",
@@ -3300,7 +3444,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/11/mlm-how-to-train-your-own-decision-model-like-jev-using-unsloth-feature.png",
       "publishedAt": "2026-11-04T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "881ce3b65ab9f38e60fc",
@@ -3412,7 +3556,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-11-03T17:01:49.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c8a8f9680178ec2ee1a5",
@@ -3428,7 +3572,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T16:35:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "079035eb8c4f82089c0b",
@@ -3476,7 +3620,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-inference-optimization-decision-tree-cover.png",
       "publishedAt": "2026-11-03T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "9e9cc82b37dc34bb3da6",
@@ -3492,7 +3636,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/01-audience-300x146.jpg",
       "publishedAt": "2026-11-03T09:22:03.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2992c12e50986d1f54a6",
@@ -3556,7 +3700,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "52f57feb16f1fccb3042",
@@ -3572,7 +3716,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d960fd3f40e3ddd303e8",
@@ -3668,7 +3812,7 @@
       "imageUrl": "https://pytorch.org/wp-content/uploads/2026/11/SIG-horizontal.png",
       "publishedAt": "2026-11-02T17:45:32.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "06d7e4036e584cfd037a",
@@ -3684,7 +3828,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
       "publishedAt": "2026-11-02T17:45:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8cbdbe163436e08bac5c",
@@ -3732,7 +3876,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-bala-agent-memory-stack.png",
       "publishedAt": "2026-11-02T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "edda124dac54c7fe438c",
@@ -3764,7 +3908,7 @@
       "imageUrl": "data:image/png;base64,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Ugn67W9/K0nasWOH6urqvDohAACAK+GSXiKfmJgoSXr44Yf10UcfKSQkRL1791afPn10/fXX64c//KE35wgAAOB1l1SCrrvuOh04cEB//vOfJX31sRQ7duzQ9u3btWHDBkoQAABo9C6qBL3zzjv68Y9/rLKyMklffQDq+PHj9cgjjygpKUlJSUmXZZIAAADedlHXBP3sZz9Tz5499d577+njjz/Wk08+qQ0bNqhfv346cODA5ZojAACA111UCdqzZ4/y8/PVr18/devWTePGjdPWrVvVt29fTZ069TJNEQAAwPsuqgT17NlTlZWVbuscDod+9atfqaCgwKsTAwAAuJwuqgSNHz9ev/jFL7R//3639VVVVWrdurVXJwYAAHA5XdSF0Wef8urevbtuu+02JSYmqq6uTi+88ILmzJlzOeYHAABwWVxUCTp06JBKS0v1z3/+U6WlpVq+fLl27dolh8OhOXPm6I033lB8fLzi4+OVlpZ2ueYMAADgsYsqQREREUpNTVVqaqpr3RdffKHt27e7ytFrr72m3/zmNzp+/Li35woAAOA1l/Rmid8UHBysgQMHauDAgd6YDwAAwBXBB6gCAAArUYIAAICVKEEAAMBKlCAAAGAlShAAALASJQgAAFiJEgQAAKxECQIAAFaiBAEAACtRggAAgJUoQQAAwEqUIAAAYCVKEAAAsBIlCAAAWIkSBAAArEQJAgAAVqIEAQAAKwX4egJoOmIfWuuVnH15I7ySAwCAJzgTBAAArEQJAgAAVqIEAQAAK1GCAACAlShBAADASpQgAABgJUoQAACwEiUIAABYiRIEAACsRAkCAABWogQBAAArUYIAAICVKEEAAMBKlCAAAGAlShAAALASJQgAAFiJEgQAAKxECQIAAFaiBAEAACtRggAAgJUoQQAAwEqNogQtXLhQsbGxCg4OVlJSkrZs2XLOsTt27NDtt9+u2NhYORwO5efne5wJAADs4/MStHr1amVlZSknJ0clJSVKSEhQamqqKisr6x1/6tQpdenSRXl5eYqMjPRKJgAAsI/PS9D8+fM1ceJEZWRkqFevXlq8eLGaN2+uZcuW1Tt+4MCBevLJJzVmzBgFBQV5JVOSTp8+rerqarcFAABcvQJ8eee1tbXatm2bpk+f7lrn5+en5ORkFRcXX9HM3NxcPf7445d0n/Bc7ENrvZKzL2+EV3IAAFc/n54JOnLkiOrq6hQREeG2PiIiQuXl5Vc0c/r06aqqqnIt+/fvv6T7BwAATYNPzwQ1JkFBQed8eg0AAFx9fHomKDw8XP7+/qqoqHBbX1FRcc6Lnn2RCQAArj4+LUGBgYHq37+/CgsLXeucTqcKCws1ePDgRpMJAACuPj5/OiwrK0vp6ekaMGCABg0apPz8fNXU1CgjI0OSNG7cOHXo0EG5ubmSvrrw+V//+pfr6wMHDqi0tFQtW7ZUt27dGpQJAADg8xI0evRoHT58WDNnzlR5ebkSExNVUFDgurC5rKxMfn5fn7A6ePCg+vbt6/p+7ty5mjt3roYOHaqioqIGZQIAAPi8BElSZmamMjMz673tbLE5KzY2VsYYjzIBAAB8/maJAAAAvkAJAgAAVqIEAQAAK1GCAACAlShBAADASpQgAABgJUoQAACwEiUIAABYiRIEAACsRAkCAABWogQBAAArUYIAAICVKEEAAMBKlCAAAGAlShAAALASJQgAAFiJEgQAAKxECQIAAFaiBAEAACtRggAAgJUoQQAAwEqUIAAAYCVKEAAAsFKArycAXG6xD631Ss6+vBFeyQEANA6cCQIAAFaiBAEAACtRggAAgJUoQQAAwEqUIAAAYCVKEAAAsBIlCAAAWIkSBAAArEQJAgAAVqIEAQAAK1GCAACAlShBAADASpQgAABgJUoQAACwEiUIAABYiRIEAACsRAkCAABWogQBAAArUYIAAICVKEEAAMBKlCAAAGAlShAAALASJQgAAFgpwNcTAJqq2IfWei1rX94Ir2UBABqGM0EAAMBKlCAAAGAlShAAALASJQgAAFiJEgQAAKzEq8OARshbrzzjVWcAcG6cCQIAAFZqNCVo4cKFio2NVXBwsJKSkrRly5bzjn/55ZcVFxen4OBg9enTR3/961/dbh8/frwcDofbkpaWdjl3AQAANCGNogStXr1aWVlZysnJUUlJiRISEpSamqrKysp6x7/77rsaO3asJkyYoPfff1+jRo3SqFGj9OGHH7qNS0tL06FDh1zLiy++eCV2BwAANAGNogTNnz9fEydOVEZGhnr16qXFixerefPmWrZsWb3jFyxYoLS0NGVnZ6tnz56aNWuW+vXrp2eeecZtXFBQkCIjI11LWFjYldgdAADQBPi8BNXW1mrbtm1KTk52rfPz81NycrKKi4vr3aa4uNhtvCSlpqZ+Z3xRUZHat2+vHj16aNKkSTp69Og553H69GlVV1e7LQAA4Orl8xJ05MgR1dXVKSIiwm19RESEysvL692mvLz8guPT0tK0YsUKFRYWavbs2dq4caOGDx+uurq6ejNzc3MVGhrqWjp27OjhngEAgMbsqn2J/JgxY1xf9+nTR/Hx8eratauKioo0bNiw74yfPn26srKyXN9XV1dThAAAuIr5/ExQeHi4/P39VVFR4ba+oqJCkZGR9W4TGRl5UeMlqUuXLgoPD9fu3bvrvT0oKEitW7d2WwAAwNXL5yUoMDBQ/fv3V2FhoWud0+lUYWGhBg8eXO82gwcPdhsvSevXrz/neEn67LPPdPToUUVFRXln4gAAoEnzeQmSpKysLC1dulTPP/+8du7cqUmTJqmmpkYZGRmSpHHjxmn69Omu8VOmTFFBQYHmzZunjz76SI899pi2bt2qzMxMSdLJkyeVnZ2tTZs2ad++fSosLNTIkSPVrVs3paam+mQfAQBA49IorgkaPXq0Dh8+rJkzZ6q8vFyJiYkqKChwXfxcVlYmP7+v+9oNN9yglStX6tFHH9XDDz+s7t2769VXX9X1118vSfL399cHH3yg559/XsePH1d0dLRSUlI0a9YsBQUF+WQfAQBA49IoSpAkZWZmus7kfFtRUdF31t15552688476x0fEhKidevWeXN6AADgKtMong4DAAC40ihBAADASpQgAABgJUoQAACwEiUIAABYiRIEAACsRAkCAABWogQBAAArUYIAAICVGs07RgO4MmIfWuuVnH15I7ySAwC+wpkgAABgJUoQAACwEiUIAABYiRIEAACsRAkCAABWogQBAAArUYIAAICVKEEAAMBKlCAAAGAlShAAALASJQgAAFiJEgQAAKxECQIAAFaiBAEAACtRggAAgJUCfD0BAFeP2IfWeiVnX94Ir+QAwPlwJggAAFiJEgQAAKxECQIAAFaiBAEAACtRggAAgJUoQQAAwEq8RB5Ak8DL7wF4G2eCAACAlShBAADASpQgAABgJUoQAACwEhdGA7Caty64lrjoGmhqOBMEAACsxJkgALhMeFk/0LhRggCgCaJgAZ7j6TAAAGAlzgQBANxwlgm24EwQAACwEiUIAABYiRIEAACsRAkCAABWogQBAAArUYIAAICVeIk8AOCK4HPa0NhQggAATR7vbYRLwdNhAADASpwJAgDgPDjLdPXiTBAAALASJQgAAFiJEgQAAKzUaErQwoULFRsbq+DgYCUlJWnLli3nHf/yyy8rLi5OwcHB6tOnj/7617+63W6M0cyZMxUVFaWQkBAlJydr165dl3MXAABAE9IoStDq1auVlZWlnJwclZSUKCEhQampqaqsrKx3/LvvvquxY8dqwoQJev/99zVq1CiNGjVKH374oWvMnDlz9NRTT2nx4sXavHmzWrRoodTUVH3xxRdXarcAAEAj1ihK0Pz58zVx4kRlZGSoV69eWrx4sZo3b65ly5bVO37BggVKS0tTdna2evbsqVmzZqlfv3565plnJH11Fig/P1+PPvqoRo4cqfj4eK1YsUIHDx7Uq6++egX3DAAANFY+f4l8bW2ttm3bpunTp7vW+fn5KTk5WcXFxfVuU1xcrKysLLd1qamproKzd+9elZeXKzk52XV7aGiokpKSVFxcrDFjxnwn8/Tp0zp9+rTr+6qqKklSdXX1Je/b+ThPn/JKzrfn563cy5ld32PaFLN5rK+ObP4/8lifL/dyZ1+fs84r2R8+nuqVnKvB2cfZGHPhwcbHDhw4YCSZd9991219dna2GTRoUL3bNGvWzKxcudJt3cKFC0379u2NMca88847RpI5ePCg25g777zT3HXXXfVm5uTkGEksLCwsLCwsV8Gyf//+C3YQn58JaiymT5/udnbJ6XTqP//5j9q2bSuHw3HF51NdXa2OHTtq//79at26daPPJfvKZjfFOTfV7KY4Z7KvXC7ZVy63oYwxOnHihKKjoy841uclKDw8XP7+/qqoqHBbX1FRocjIyHq3iYyMPO/4s/+tqKhQVFSU25jExMR6M4OCghQUFOS27pprrrmYXbksWrdufVl+iC5XLtlXNrspzrmpZjfFOZN95XLJvnK5DREaGtqgcT6/MDowMFD9+/dXYWGha53T6VRhYaEGDx5c7zaDBw92Gy9J69evd43v3LmzIiMj3cZUV1dr8+bN58wEAAB28fmZIEnKyspSenq6BgwYoEGDBik/P181NTXKyMiQJI0bN04dOnRQbm6uJGnKlCkaOnSo5s2bpxEjRmjVqlXaunWrlixZIklyOByaOnWqnnjiCXXv3l2dO3fWjBkzFB0drVGjRvlqNwEAQCPSKErQ6NGjdfjwYc2cOVPl5eVKTExUQUGBIiIiJEllZWXy8/v6pNUNN9yglStX6tFHH9XDDz+s7t2769VXX9X111/vGvPAAw+opqZGP/3pT3X8+HENGTJEBQUFCg4OvuL7dymCgoKUk5PznafoGmsu2Vc2uynOualmN8U5k33lcsm+crmXg8OYhryGDAAA4Ori82uCAAAAfIESBAAArEQJAgAAVqIEAQAAK1GCGqGFCxcqNjZWwcHBSkpK0pYtW7yS+/e//1233HKLoqOj5XA4vPZhsrm5uRo4cKBatWql9u3ba9SoUfr444+9kr1o0SLFx8e73nRr8ODBeuONN7yS/U15eXmut1bw1GOPPSaHw+G2xMXFeT7J/+/AgQP68Y9/rLZt2yokJER9+vTR1q1bPc6NjY39zrwdDocmT57sUW5dXZ1mzJihzp07KyQkRF27dtWsWbMa9rk+DXDixAlNnTpVMTExCgkJ0Q033KD33nvvonMudHwYYzRz5kxFRUUpJCREycnJ2rVrl1eyX3nlFaWkpLjeob60tNQr8z5z5owefPBB9enTRy1atFB0dLTGjRungwcPejznxx57THFxcWrRooXCwsKUnJyszZs3ezznb/v5z38uh8Oh/Px8r2SPHz/+Oz/jaWlpXpv3zp07deuttyo0NFQtWrTQwIEDVVZW5nF2fcemw+HQk08+6VHuyZMnlZmZqWuvvVYhISGuDzFviAtlV1RUaPz48YqOjlbz5s2VlpbW4GPmSqEENTKrV69WVlaWcnJyVFJSooSEBKWmpqqystLj7JqaGiUkJGjhwoVemOnXNm7cqMmTJ2vTpk1av369zpw5o5SUFNXU1Hicfe211yovL0/btm3T1q1bdfPNN2vkyJHasWOHF2b+lffee0+/+93vFB8f77XM3r1769ChQ67l7bff9krusWPHdOONN6pZs2Z644039K9//Uvz5s1TWFiYx9nvvfee25zXr18vSbrzzjs9yp09e7YWLVqkZ555Rjt37tTs2bM1Z84cPf300x7PWZJ+8pOfaP369frDH/6g7du3KyUlRcnJyTpw4MBF5Vzo+JgzZ46eeuopLV68WJs3b1aLFi2UmpqqL774wuPsmpoaDRkyRLNnz76oOV8o+9SpUyopKdGMGTNUUlKiV155RR9//LFuvfVWj+d83XXX6ZlnntH27dv19ttvKzY2VikpKTp8+LDH2WetWbNGmzZtatDHH1xMdlpamtvP+osvvuiV7D179mjIkCGKi4tTUVGRPvjgA82YMaNBb81yoexvzvfQoUNatmyZHA6Hbr/9do9ys7KyVFBQoBdeeEE7d+7U1KlTlZmZqddee82jORtjNGrUKP373//Wn//8Z73//vuKiYlRcnKyV/42eM0FP10MV9SgQYPM5MmTXd/X1dWZ6Ohok5ub69X7kWTWrFnj1cyzKisrjSSzcePGy5IfFhZmfv/733sl68SJE6Z79+5m/fr1ZujQoWbKlCkeZ+bk5JiEhASPc+rz4IMPmiFDhlyW7G+bMmWK6dq1q3E6nR7ljBgxwtx7771u62677TZz9913e5RrjDGnTp0y/v7+5vXXX3db369fP/PII49ccu63jw+n02kiIyPNk08+6Vp3/PhxExQUZF588UWPsr9p7969RpJ5//33L2HWDTuut2zZYiSZTz/91Ku5VVVVRpLZsGFDg3PPl/3ZZ5+ZDh06mA8//NDExMSY3/72txeVe67s9PR0M3LkyIvOakj26NGjzY9//OPLkv1tI0eONDfffLPHub179za/+tWv3NZdyvHz7eyPP/7YSDIffviha11dXZ1p166dWbp06UVlX06cCWpEamtrtW3bNiUnJ7vW+fn5KTk5WcXFxT6c2cWpqqqSJLVp08aruXV1dVq1apVqamq89vEnkydP1ogRI9wec2/YtWuXoqOj1aVLF919990NOh3eEK+99poGDBigO++8U+3bt1ffvn21dOlSr2R/U21trV544QXde++9Hn+A8A033KDCwkJ98sknkqR//vOfevvttzV8+HCP5/nll1+qrq7uO//SDgkJ8drZN0nau3evysvL3X5OQkNDlZSU1KSOTemr49PhcHj1sxFra2u1ZMkShYaGKiEhweM8p9Ope+65R9nZ2erdu7cXZuiuqKhI7du3V48ePTRp0iQdPXrU40yn06m1a9fquuuuU2pqqtq3b6+kpCSvXXbwTRUVFVq7dq0mTJjgcdYNN9yg1157TQcOHJAxRm+99ZY++eQTpaSkeJR7+vRpSXI7Nv38/BQUFOTVY9NTlKBG5MiRI6qrq3O9U/ZZERERKi8v99GsLo7T6dTUqVN14403ur2Dtye2b9+uli1bKigoSD//+c+1Zs0a9erVy+PcVatWqaSkxPVxLN6SlJSk5cuXq6CgQIsWLdLevXt100036cSJEx5n//vf/9aiRYvUvXt3rVu3TpMmTdJ9992n559/3gsz/9qrr76q48ePa/z48R5nPfTQQxozZozi4uLUrFkz9e3bV1OnTtXdd9/tcXarVq00ePBgzZo1SwcPHlRdXZ1eeOEFFRcX69ChQx7nn3X2+GvKx6YkffHFF3rwwQc1duxYr3yw5euvv66WLVsqODhYv/3tb7V+/XqFh4d7nDt79mwFBATovvvu8zjr29LS0rRixQoVFhZq9uzZ2rhxo4YPH666ujqPcisrK3Xy5Enl5eUpLS1Nb775pn70ox/ptttu08aNG700+688//zzatWqlW677TaPs55++mn16tVL1157rQIDA5WWlqaFCxfq+9//vke5cXFx6tSpk6ZPn65jx46ptrZWs2fP1meffebVY9NTjeJjM3D1mDx5sj788EOvNv0ePXqotLRUVVVV+tOf/qT09HRt3LjRoyK0f/9+TZkyRevXr/f6R6l88wxHfHy8kpKSFBMTo5deesnjf7k5nU4NGDBAv/nNbyRJffv21YcffqjFixcrPT3do+xvevbZZzV8+PCLuhbjXF566SX98Y9/1MqVK9W7d2+VlpZq6tSpio6O9sqc//CHP+jee+9Vhw4d5O/vr379+mns2LHatm2bx9lXkzNnzuiuu+6SMUaLFi3ySuYPfvADlZaW6siRI1q6dKnuuusubd68We3bt7/kzG3btmnBggUqKSnx+CxkfcaMGeP6uk+fPoqPj1fXrl1VVFSkYcOGXXKu0+mUJI0cOVL333+/JCkxMVHvvvuuFi9erKFDh3o28W9YtmyZ7r77bq/87nr66ae1adMmvfbaa4qJidHf//53TZ48WdHR0R6dIW/WrJleeeUVTZgwQW3atJG/v7+Sk5M1fPhwr70owhs4E9SIhIeHy9/fXxUVFW7rKyoqFBkZ6aNZNVxmZqZef/11vfXWW7r22mu9lhsYGKhu3bqpf//+ys3NVUJCghYsWOBR5rZt21RZWal+/fopICBAAQEB2rhxo5566ikFBAR4/K/Cb7rmmmt03XXXaffu3R5nRUVFfaf89ezZ02tPt0nSp59+qg0bNugnP/mJV/Kys7NdZ4P69Omje+65R/fff7/XzsB17dpVGzdu1MmTJ7V//35t2bJFZ86cUZcuXbySL8l1/DXVY/NsAfr000+1fv16r5wFkqQWLVqoW7du+t73vqdnn31WAQEBevbZZz3K/Mc//qHKykp16tTJdWx++umn+uUvf6nY2FivzPubunTpovDwcI+Pz/DwcAUEBFz24/Mf//iHPv74Y68cn59//rkefvhhzZ8/X7fccovi4+OVmZmp0aNHa+7cuR7n9+/fX6WlpTp+/LgOHTqkgoICHT161KvHpqcoQY1IYGCg+vfvr8LCQtc6p9OpwsJCr10DczkYY5SZmak1a9bob3/7mzp37nxZ78/pdLqeb75Uw4YN0/bt21VaWupaBgwYoLvvvlulpaXy9/f30my/egnqnj17FBUV5XHWjTfe+J23H/jkk08UExPjcfZZzz33nNq3b68RI0Z4Je/UqVNuH4AsSf7+/q5/OXtLixYtFBUVpWPHjmndunUaOXKk17I7d+6syMhIt2OzurpamzdvbtTHpvR1Adq1a5c2bNigtm3bXrb78saxec899+iDDz5wOzajo6OVnZ2tdevWeWmmX/vss8909OhRj4/PwMBADRw48LIfn88++6z69+/vlWuvzpw5ozNnzlz24zM0NFTt2rXTrl27tHXrVq8em57i6bBGJisrS+np6RowYIAGDRqk/Px81dTUKCMjw+PskydPuv1rZ+/evSotLVWbNm3UqVOnS86dPHmyVq5cqT//+c9q1aqV6xqJ0NBQhYSEeDTn6dOna/jw4erUqZNOnDihlStXqqioyONfhq1atfrONUstWrRQ27ZtPb6Wadq0abrlllsUExOjgwcPKicnR/7+/ho7dqxHuZJ0//3364YbbtBvfvMb3XXXXdqyZYuWLFmiJUuWeJwtffVH7LnnnlN6eroCArzz6+GWW27Rr3/9a3Xq1Em9e/fW+++/r/nz5+vee+/1Sv66detkjFGPHj20e/duZWdnKy4u7qKPmQsdH1OnTtUTTzyh7t27q3PnzpoxY4aio6M1atQoj7P/85//qKyszPX+PWf/kEZGRl7wTNP5sqOionTHHXeopKREr7/+uurq6lzHZ5s2bRQYGHhJuW3bttWvf/1r3XrrrYqKitKRI0e0cOFCHThwoEFvqXChx+PbRa1Zs2aKjIxUjx49PMpu06aNHn/8cd1+++2KjIzUnj179MADD6hbt25KTU31eN7Z2dkaPXq0vv/97+sHP/iBCgoK9Je//EVFRUUeZ0tfFe+XX35Z8+bNu2BeQ3OHDh2q7OxshYSEKCYmRhs3btSKFSs0f/58j7NffvlltWvXTp06ddL27ds1ZcoUjRo1yuOLrr3Kp69NQ72efvpp06lTJxMYGGgGDRpkNm3a5JXct956y0j6zpKenu5Rbn2Zksxzzz3n8ZzvvfdeExMTYwIDA027du3MsGHDzJtvvulxbn289RL50aNHm6ioKBMYGGg6dOhgRo8ebXbv3u35BP+/v/zlL+b66683QUFBJi4uzixZssRr2evWrTOSzMcff+y1zOrqajNlyhTTqVMnExwcbLp06WIeeeQRc/r0aa/kr1692nTp0sUEBgaayMhIM3nyZHP8+PGLzrnQ8eF0Os2MGTNMRESECQoKMsOGDWvw43Sh7Oeee67e23NycjzKPvuS+/qWt95665JzP//8c/OjH/3IREdHm8DAQBMVFWVuvfVWs2XLFq88Ht92MS+RP1/2qVOnTEpKimnXrp1p1qyZiYmJMRMnTjTl5eVem/ezzz5runXrZoKDg01CQoJ59dVXvZb9u9/9zoSEhFzUz/eFcg8dOmTGjx9voqOjTXBwsOnRo4eZN29eg94a40LZCxYsMNdee61p1qyZ6dSpk3n00Ue9dtx7i8OYRnSFEgAAwBXCNUEAAMBKlCAAAGAlShAAALASJQgAAFiJEgQAAKxECQIAAFaiBAEAACtRggAAgJUoQQAAwEqUIAAAYCVKEGCx//qv/9LUqVN9PY2rUkMeWx5/wLf4FHnAYq+88oqaNWsm6as/yImJicrPz/ftpHyIxwCwCyUIsFibNm18PYVGo7a21tdTAHCF8XQYYLGzT8eMHz9eGzdu1IIFC+RwOORwOLRv3z5JktPpVG5urjp37qyQkBAlJCToT3/6k1vGL37xC02dOlVhYWGKiIjQ0qVLVVNTo4yMDLVq1UrdunXTG2+84Xbff/rTn9SnTx+FhISobdu2Sk5OVk1NTYPnfr7tT58+rfvuu0/t27dXcHCwhgwZovfee+87+56ZmampU6cqPDxcqampl/wY1NTUaNy4cWrZsqWioqI0b968Bu/Hl19+qczMTIWGhio8PFwzZsyQMUYrVqxQ27Ztdfr0abfxo0aN0j333HPOvPLycjkcDi1YsEB9+/ZVcHCwevfurbfffrvBcwKsYQBYa+jQoWbKlCnm+PHjZvDgwWbixInm0KFD5tChQ+bLL780xhjzxBNPmLi4OFNQUGD27NljnnvuORMUFGSKiopcGa1atTKzZs0yn3zyiZk1a5bx9/c3w4cPN0uWLDGffPKJmTRpkmnbtq2pqakxxhhz8OBBExAQYObPn2/27t1rPvjgA7Nw4UJz4sSJBs37Qtvfd999Jjo62vz1r381O3bsMOnp6SYsLMwcPXrUbd9btmxpsrOzzUcffWRKS0sv+TGYNGmS6dSpk9mwYYP54IMPzA9/+EPTqlUrM2XKlAs+/i1btjRTpkwxH330kXnhhRdM8+bNzZIlS8ypU6dMaGioeemll1zjKyoqTEBAgPnb3/52zsw33njDSDLx8fGmqKjI7Ny506SlpZlOnTqZurq6Bj2+gC0oQYDFzpagb3991hdffGGaN29u3n33Xbf1EyZMMGPHjnVtN2TIENdtX375pWnRooW55557XOsOHTpkJJni4mJjjDHbtm0zksy+ffsuad7n2/7kyZOmWbNm5o9//KNrXW1trYmOjjZz5sxx2/e+ffu6bXspj8GJEydMYGCgW1k5evSoCQkJaVAJ6tmzp3E6na51Dz74oOnZs6cx5qtyNXz4cNdt8+bNM126dHEb/215eXmmWbNmZu/eva51W7duNZJMWVmZMcaYwsJCM3fu3PPODbAB1wQBOKfdu3fr1KlT+u///m+39bW1terbt6/r+/j4eNfX/v7+atu2rfr06eNaFxERIUmqrKyUJCUkJGjYsGHq06ePUlNTlZKSojvuuENhYWENmtf5tt+zZ4/OnDmjG2+80TW+WbNmGjRokHbu3OmW079/f48fgz179qi2tlZJSUmu29q0aaMePXo0aF++973vyeFwuL4fPHiw5s2bp7q6Ok2cOFEDBw7UgQMH1KFDBy1fvlzjx493G/9tpaWluu222xQbG+ta17p1a7cxN998s26++eYGzQ+4mlGCAJzTyZMnJUlr165Vhw4d3G4LCgpyfX32FWZnORwOt3Vn/2g7nU5JXxWl9evX691339Wbb76pp59+Wo888og2b96szp07X3Be59v+YrRo0eKCYy70GPznP/+5qPu8GH379lVCQoJWrFihlJQU7dixQ2vXrj3vNqWlpUpPT3dbV1xcrPDwcNf8b731Vv361792K6qAjbgwGoAkKTAwUHV1dW7revXqpaCgIJWVlalbt25uS8eOHT26P4fDoRtvvFGPP/643n//fQUGBmrNmjUeb9+1a1cFBgbqnXfecY09c+aM3nvvPfXq1eu8mZfyGHTt2lXNmjVzK2DHjh3TJ5980qD9+HZx27Rpk7p37y5/f39J0k9+8hMtX75czz33nJKTk8/7uH/++efatWuX2z44nU7l5+crPT1dfn5f/cr/6KOPFBcX16D5AVczzgQBkCTFxsZq8+bN2rdvn1q2bKk2bdqoVatWmjZtmu6//345nU4NGTJEVVVVeuedd9S6devvnHFoqM2bN6uwsFApKSlq3769Nm/erMOHD6tnz54eb9+iRQtNmjRJ2dnZatOmjTp16qQ5c+bo1KlTmjBhwmV5DCZMmKDs7Gy1bdtW7du31yOPPOIqHBdSVlamrKws/exnP1NJSYmefvppt1eX/e///q+mTZumpUuXasWKFefN2r59uxwOh1544QXdfPPNuuaaazRz5kwdP35cjz76qCTpxIkTCg4O/s7ZO8BGlCAAkqRp06YpPT1dvXr10ueff669e/cqNjZWs2bNUrt27ZSbm6t///vfuuaaa9SvXz89/PDDl3xfrVu31t///nfl5+erurpaMTExmjdvnoYPHy5JWr58uTIyMmSMuaTt8/Ly5HQ6dc899+jEiRMaMGCA1q1bd8Frji71MXjyySd18uRJ3XLLLWrVqpV++ctfqqqqqkGPxbhx4/T5559r0KBB8vf315QpU/TTn/7UdXtoaKhuv/12rV27VqNGjTpvVmlpqeLi4vTAAw/o9ttvV1VVleul/9dcc40kaceOHerdu3eD5gZc7RzmXL9lAMBHcnJytHHjRhUVFfl6Ko3CsGHD1Lt3bz311FPnHTd58mQdO3ZMK1euPOeYpUuX6vDhwx6VWOBqwTVBABqdN954Q3PmzPH1NHzu2LFjWrNmjYqKijR58uQLji8tLXV7pV59tm/fruuvv95bUwSaNM4EAUAjFRsbq2PHjmnGjBmaNm3aeccaYxQaGqpVq1bpf/7nf67QDIGmjRIEAACsxNNhAADASpQgAABgJUoQAACwEiUIAABYiRIEAACsRAkCAABWogQBAAArUYIAAICVKEEAAMBKlCAAAGCl/wc87ZtJ4S5wywAAAABJRU5ErkJggg==",
       "publishedAt": "2026-11-02T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "5ab6bf0c0644d418b431",
@@ -3812,7 +3956,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "dd1de1a77ea559c649b7",
@@ -3828,7 +3972,7 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2695c9f49c450e78cc13",
@@ -3844,7 +3988,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "accdd7b4a9c604797a39",
@@ -3860,7 +4004,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2236f64ff598339f93fe",
@@ -3908,7 +4052,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-10-30T14:18:30.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "09c3e99a752508d20949",
@@ -3924,7 +4068,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-7-ways-ai-agent-wasting-tokens-feature.png",
       "publishedAt": "2026-10-30T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "f6bb8faa5250f9d0fb92",
@@ -4020,7 +4164,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T13:37:07.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "072d942f46765430c7bc",
@@ -4068,7 +4212,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1c51b67ebe47102fe4a3",
@@ -4100,7 +4244,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c0983606c3333738d6b6",
@@ -4116,7 +4260,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8c5d56dea0e23acf09fd",
@@ -4132,7 +4276,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "a711662bb858d664a8d1",
@@ -4276,7 +4420,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
       "publishedAt": "2026-10-28T17:00:58.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "6e3a6a1d33e37b0a093a",
@@ -4340,7 +4484,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head-feature.png",
       "publishedAt": "2026-10-28T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "991be65082ac2fdc13f5",
@@ -4388,7 +4532,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "f79b6207a17558312100",
@@ -4436,7 +4580,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T17:16:52.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "ad42195517497eff06aa",
@@ -4468,7 +4612,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-10-27T16:01:38.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c738bab04e6b7ed9372f",
@@ -4516,7 +4660,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-context-managers-beyond-opening-files-feature.png",
       "publishedAt": "2026-10-27T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "ee3bc300f2aa709b5d69",
@@ -4532,7 +4676,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "a739304d2f38d5b00ef0",
@@ -4676,7 +4820,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
       "publishedAt": "2026-10-26T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d8cc2154f4c1697940b4",
@@ -4724,7 +4868,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/10/mlm-robust-serialization-with-json-and-custom-types-feature.png",
       "publishedAt": "2026-10-26T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "575d3ff0d233e55082b9",
@@ -4756,7 +4900,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-26T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "3ba73a20616fcfe42082",
@@ -4804,7 +4948,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4f5bee26a58d6442b9fb",
@@ -4820,7 +4964,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-24T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "953e652f56ea65252c63",
@@ -4836,7 +4980,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-24T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "de8cc25089d3e9828d61",
@@ -4916,7 +5060,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-speculative-decoding-3x-faster-inference-llm-feature.png",
       "publishedAt": "2026-10-23T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "bcdc5b4b19b2a79a1332",
@@ -4948,7 +5092,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e1dd29ccabf44ccb1208",
@@ -4996,7 +5140,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b6581f932aedb7bb9f9f",
@@ -5060,7 +5204,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T22:24:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4035eaebbaf59980867c",
@@ -5188,7 +5332,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-10-22T14:30:24.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "dc623610028f7a1f6fd8",
@@ -5492,7 +5636,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T17:35:36.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1974f9bb7ed573b8a1d1",
@@ -5556,7 +5700,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T16:04:43.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "9dccdcc8e7be0c6961c6",
@@ -5652,7 +5796,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/mlm-chugani-multi-modal-rag-pipeline-images-documents-python-feature.png",
       "publishedAt": "2026-10-21T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "0bfc762931b7a4baceac",
@@ -5860,7 +6004,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-10-21T04:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "9cc234dc38c7f5286c3c",
@@ -6100,7 +6244,7 @@
       "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/09/MLM-Shittu-pgvector-vs.-Dedicated-Vector-Databases-A-Production-Benchmark-scaled.png",
       "publishedAt": "2026-10-20T11:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-22T06:47:09.237Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b62b74e354bb0973e455",
@@ -6164,7 +6308,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "74e9c2ae0bd4c56be2a9",
@@ -6212,7 +6356,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T00:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8f7e6979f8247586f4a5",
@@ -6404,7 +6548,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-19T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1ddd7de15ccd363604a5",
@@ -6436,7 +6580,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4cc00c0073b7518963c4",
@@ -6468,7 +6612,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-17T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e05c2aaceee332bd27d0",
@@ -6772,7 +6916,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-10-15T16:08:03.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1d0a7ea1f2b2c03ba1e7",
@@ -7140,7 +7284,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-10-14T02:00:14.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "23d43dc2918052bc3338",
@@ -7204,7 +7348,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
       "publishedAt": "2026-10-13T19:43:07.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8e826b5d6f7a20a3e44a",
@@ -7252,7 +7396,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
       "publishedAt": "2026-10-13T16:01:58.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2709ab324fbc36152fd4",
@@ -7268,7 +7412,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
       "publishedAt": "2026-10-13T16:01:52.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "6ab00ffbef1ef26a3415",
@@ -7284,7 +7428,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
       "publishedAt": "2026-10-13T16:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "51b1ea039001f7fa9bb2",
@@ -7364,7 +7508,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "ce588998662f09c40e86",
@@ -7380,7 +7524,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4f1ac7fc2188cd591544",
@@ -7508,7 +7652,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-12T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "4c90f1cf93c664360f42",
@@ -7524,7 +7668,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-12T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "b1284e312e9932983b47",
@@ -7540,7 +7684,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-11T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2a5d8d38107ba73a3363",
@@ -7588,7 +7732,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-10T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "6593afb29dc037649d79",
@@ -7604,7 +7748,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-10T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2bf9d68416a0daf9be28",
@@ -7700,7 +7844,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "7d3bb1ef5875665f7cb2",
@@ -7716,7 +7860,7 @@
       "imageUrl": null,
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "075c5f5a82eaf9d5cb95",
@@ -8132,7 +8276,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
       "publishedAt": "2026-10-07T12:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "657464673f696a2bed69",
@@ -8244,7 +8388,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
       "publishedAt": "2026-10-06T19:57:04.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "5e3fbd0da9ee11fcdf88",
@@ -8724,7 +8868,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
       "publishedAt": "2026-10-02T15:00:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "9eebe1fe3e9c6b20ed41",
@@ -9060,7 +9204,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
       "publishedAt": "2026-09-30T20:01:45.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "7c6efed5dcda30f530c7",
@@ -9108,7 +9252,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-09-30T15:03:07.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8636742ea62166e8c507",
@@ -9764,7 +9908,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
       "publishedAt": "2026-09-24T16:20:39.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "00f15f335c8f540860d8",
@@ -9972,7 +10116,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-09-23T16:00:57.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "0c3963a5d7cd0f7c4f98",
@@ -10004,7 +10148,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
       "publishedAt": "2026-09-23T15:25:14.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c0105d51588cec792143",
@@ -10516,7 +10660,7 @@
       "imageUrl": null,
       "publishedAt": "2026-09-21T15:12:34.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "461bb7dbd3e9828495cf",
@@ -11348,7 +11492,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
       "publishedAt": "2026-09-15T17:05:57.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "2ceb6463263e55ae7645",
@@ -11860,7 +12004,7 @@
       "imageUrl": "https://1.gravatar.com/avatar/d573920fd3631df49a5af0d3db501e1298cbde95ef2df4ad49f1d25eb7faa997?s=96&d=identicon&r=G",
       "publishedAt": "2026-09-10T22:20:28.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "c8e666df65123a5c5801",
@@ -12500,7 +12644,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-09-08T14:00:15.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "3ded22e501044e409fb8",
@@ -12948,7 +13092,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-09-03T15:02:08.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "6cb02ad1ce6e8d8663f5",
@@ -13236,7 +13380,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__blog__header__1.width-1300.png",
       "publishedAt": "2026-09-02T16:24:24.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "1554159ced846ee879c1",
@@ -13252,7 +13396,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
       "publishedAt": "2026-09-02T16:18:31.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "95bb06fcfb838705882f",
@@ -13380,7 +13524,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-header.width-1300.png",
       "publishedAt": "2026-09-01T17:08:51.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "bc04c947b147ebbe7967",
@@ -13908,7 +14052,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png",
       "publishedAt": "2026-08-27T16:11:32.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "756fd4e96be98c90cf72",
@@ -13972,7 +14116,7 @@
       "imageUrl": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo",
       "publishedAt": "2026-08-27T12:59:16.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "57a157d7fadb33e58717",
@@ -14100,7 +14244,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
       "publishedAt": "2026-08-26T17:01:00.000Z",
       "dateUnknown": false,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "3ea62bdd767d3a5eb389",
@@ -14151,230 +14295,6 @@
       "fetchedAt": "2026-09-10T04:42:49.233Z"
     },
     {
-      "id": "4292d4e78099eab275f4",
-      "sourceId": "lei-mao",
-      "sourceName": "Lei Mao",
-      "category": "个人博客",
-      "sourceColor": "#0284C7",
-      "sourceColorAlt": "#7DD3FC",
-      "title": "宁波特产伴手礼",
-      "url": "https://leimao.github.io/essay/%E5%AE%81%E6%B3%A2%E7%89%B9%E4%BA%A7%E4%BC%B4%E6%89%8B%E7%A4%BC",
-      "author": "",
-      "summary": "买什么宁波特产送给外地人",
-      "imageUrl": null,
-      "publishedAt": "2026-08-26T07:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-10-04T05:52:12.406Z"
-    },
-    {
-      "id": "e2930fcf89822cb2da63",
-      "sourceId": "huggingface",
-      "sourceName": "Hugging Face",
-      "category": "框架与工具",
-      "sourceColor": "#FFBD2E",
-      "sourceColorAlt": "#FF8A00",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "author": "",
-      "summary": "暂无摘要，点击查看原文。",
-      "imageUrl": null,
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-10-20T04:50:50.287Z"
-    },
-    {
-      "id": "e54187ee5d16fe8a465f",
-      "sourceId": "openai",
-      "sourceName": "OpenAI Blog",
-      "category": "公司研究",
-      "sourceColor": "#10A37F",
-      "sourceColorAlt": "#6EE7C4",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "author": "",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "imageUrl": null,
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-10T04:42:49.233Z"
-    },
-    {
-      "id": "6b94fa02093aff1ce985",
-      "sourceId": "openai",
-      "sourceName": "OpenAI Blog",
-      "category": "公司研究",
-      "sourceColor": "#10A37F",
-      "sourceColorAlt": "#6EE7C4",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "author": "",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "imageUrl": null,
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-10T04:42:49.233Z"
-    },
-    {
-      "id": "ead19986f61b6d4713d3",
-      "sourceId": "microsoft-ai",
-      "sourceName": "微软AI",
-      "category": "公司研究",
-      "sourceColor": "#0A84FF",
-      "sourceColorAlt": "#5AC8FA",
-      "title": "The widening divide between cyber threats and cyber defenses",
-      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane",
-      "author": "sbaynes",
-      "summary": "The post The widening divide between cyber threats and cyber defenses appeared first on Source.",
-      "imageUrl": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/image-1.jpg",
-      "publishedAt": "2026-08-25T23:52:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-02T04:33:49.808Z"
-    },
-    {
-      "id": "70aa715ee150c0ae8de7",
-      "sourceId": "microsoft-ai",
-      "sourceName": "微软AI",
-      "category": "公司研究",
-      "sourceColor": "#0A84FF",
-      "sourceColorAlt": "#5AC8FA",
-      "title": "Windows on Arm app ecosystem expands across key workloads",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/08/25/expanding-the-windows-on-arm-app-ecosystem",
-      "author": "sbaynes",
-      "summary": "The post Windows on Arm app ecosystem expands across key workloads appeared first on Source.",
-      "imageUrl": "https://blogs.windows.com/wp-content/uploads/sites/3/2026/08/Hero-Illustration-scaled.png",
-      "publishedAt": "2026-08-25T18:33:28.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-02T04:33:49.808Z"
-    },
-    {
-      "id": "43ef9a4fb83e39dc535f",
-      "sourceId": "microsoft-ai",
-      "sourceName": "微软AI",
-      "category": "公司研究",
-      "sourceColor": "#0A84FF",
-      "sourceColorAlt": "#5AC8FA",
-      "title": "Designed for XBOX 25th Anniversary Collection is now available for preorder",
-      "url": "https://news.xbox.com/en-us/2026/08/25/designed-for-xbox-25th-annversary-accessories-hardware",
-      "author": "sbaynes",
-      "summary": "The post Designed for XBOX 25th Anniversary Collection is now available for preorder appeared first on Source.",
-      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/XBOX_25_Accessories_HERO_JPG-3259a897b1e6c87237f2-scaled.jpg",
-      "publishedAt": "2026-08-25T17:59:57.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-01T05:08:24.055Z"
-    },
-    {
-      "id": "c92d6241615ef6a2f563",
-      "sourceId": "microsoft-ai",
-      "sourceName": "微软AI",
-      "category": "公司研究",
-      "sourceColor": "#0A84FF",
-      "sourceColorAlt": "#5AC8FA",
-      "title": "Moving beyond release waves with the AI at Work roadmap",
-      "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap",
-      "author": "sbaynes",
-      "summary": "The post Moving beyond release waves with the AI at Work roadmap appeared first on Source.",
-      "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/08/At-at-Work-Roadmap_1_1200.jpg",
-      "publishedAt": "2026-08-25T16:46:21.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-01T05:08:24.055Z"
-    },
-    {
-      "id": "993ec935948cb1d8a065",
-      "sourceId": "google-ai",
-      "sourceName": "Google AI Blog",
-      "category": "公司研究",
-      "sourceColor": "#4285F4",
-      "sourceColorAlt": "#34A853",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-      "author": "",
-      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-10-07T05:59:28.085Z"
-    },
-    {
-      "id": "666b33f2aa981ae3a743",
-      "sourceId": "nvidia",
-      "sourceName": "NVIDIA Blog",
-      "category": "公司研究",
-      "sourceColor": "#76B900",
-      "sourceColorAlt": "#B7E34A",
-      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology",
-      "author": "Alexander Mejia",
-      "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch […]",
-      "imageUrl": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
-      "publishedAt": "2026-08-25T15:30:48.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-16T04:49:23.398Z"
-    },
-    {
-      "id": "b31e4e4d8256298a14e5",
-      "sourceId": "huggingface",
-      "sourceName": "Hugging Face",
-      "category": "框架与工具",
-      "sourceColor": "#FFBD2E",
-      "sourceColorAlt": "#FF8A00",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "author": "",
-      "summary": "暂无摘要，点击查看原文。",
-      "imageUrl": null,
-      "publishedAt": "2026-08-25T15:14:14.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-10-20T04:50:50.287Z"
-    },
-    {
-      "id": "e9f3adcf38581d16ff40",
-      "sourceId": "microsoft-ai",
-      "sourceName": "微软AI",
-      "category": "公司研究",
-      "sourceColor": "#0A84FF",
-      "sourceColorAlt": "#5AC8FA",
-      "title": "Microsoft becomes an Official Partner of the Toronto Blue Jays",
-      "url": "https://news.microsoft.com/source/canada/2026/08/25/microsoft-becomes-an-official-partner-of-the-toronto-blue-jays",
-      "author": "sbaynes",
-      "summary": "The post Microsoft becomes an Official Partner of the Toronto Blue Jays appeared first on Source.",
-      "imageUrl": "https://sourcecanada.thesourcemediaassets.com/2026/08/partnership_1920x1080_ENG-copy-scaled.jpg",
-      "publishedAt": "2026-08-25T14:41:52.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-09-01T05:08:24.055Z"
-    },
-    {
-      "id": "3fcd1e36fb08975f8e89",
-      "sourceId": "mlmastery",
-      "sourceName": "Jason Brownlee",
-      "category": "个人博客",
-      "sourceColor": "#2563EB",
-      "sourceColorAlt": "#93C5FD",
-      "title": "Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral",
-      "url": "https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral",
-      "author": "Vinod Chugani",
-      "summary": "In this article, you will learn how Gemma 4, Llama 3, and Mistral implement tool calling locally, and what trade-offs each model family presents for...",
-      "imageUrl": "https://machinelearningmastery.com/wp-content/uploads/2026/08/mlm-chugani-comparing-local-tool-calling-gemma-4-llama-3-mistral-feature.png",
-      "publishedAt": "2026-08-25T12:00:21.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-10-05T05:39:55.146Z"
-    },
-    {
-      "id": "9c4a6f38f989661a893b",
-      "sourceId": "huggingface",
-      "sourceName": "Hugging Face",
-      "category": "框架与工具",
-      "sourceColor": "#FFBD2E",
-      "sourceColorAlt": "#FF8A00",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "author": "",
-      "summary": "暂无摘要，点击查看原文。",
-      "imageUrl": null,
-      "publishedAt": "2026-08-25T11:39:24.000Z",
-      "dateUnknown": false,
-      "fetchedAt": "2026-10-20T04:50:50.287Z"
-    },
-    {
       "id": "4beb0103c059cf4d5d1b",
       "sourceId": "meituan-tech",
       "sourceName": "美团技术团队",
@@ -14388,7 +14308,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/714ba0bf48f2186bd418d3778da7e214293923.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "8495e9c6b58b46fe59c7",
@@ -14404,7 +14324,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/1c1d9dd8cb5e604097bc6140e1cd8f95265956.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "f36a6c138e98b54bd6fc",
@@ -14516,7 +14436,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/c0ec15057c776f6f955e4d520f721c681096178.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "94c8b4241e476b5071ee",
@@ -14612,7 +14532,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/5dcc2af83b5b9da04717c9fcff76b69a1943722.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "252d8125c9a5644316ab",
@@ -14692,7 +14612,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/449102302ea0d472417c6fff369dd63882001.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "acb0d066e05918ca87af",
@@ -14772,7 +14692,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/f96887d93b880574e0fb9ebad114faba529816.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "e702c2fd370700a9e617",
@@ -14804,7 +14724,7 @@
       "imageUrl": null,
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "d051ed42a7928825b76d",
@@ -14868,7 +14788,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/8a3b4550cd7f5892dee9ff468bc6adfe159324.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "04da721291419ea0aa9c",
@@ -14916,7 +14836,7 @@
       "imageUrl": "https://p0.meituan.net/meituantechblog/a7c5a936998959a941d145ac3eebe7334801382.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "f9ae4b08fd10b1629fb0",
@@ -14948,7 +14868,7 @@
       "imageUrl": "https://s3.meituan.net/static-prod01/com.sankuai.friday.longcat.next2p/assets/chat-image-D95MTdam.png",
       "publishedAt": null,
       "dateUnknown": true,
-      "fetchedAt": "2026-11-23T07:37:46.571Z"
+      "fetchedAt": "2026-11-24T09:53:31.221Z"
     },
     {
       "id": "420e4ecb26e1294101e8",
